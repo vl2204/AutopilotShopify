@@ -1,1 +1,2293 @@
-c
+{
+  "current": {
+    "color_body_text": "#000000",
+    "color_borders": "#000000",
+    "color_secondary": "#000000",
+    "color_sale_tag": "#767676",
+    "color-bordure-nav": "#000000",
+    "color-title-nav": "#000000",
+    "color-subhead-nav": "#000000",
+    "color-subhead-fly-nav": "#6e6e6e",
+    "type_header_family": "poppins_n7",
+    "font_sizeh1": 32,
+    "font_sizeh1_mobile": 32,
+    "letter_spacingh1": 0,
+    "font_sizeh2": 28,
+    "font_sizeh2_mobile": 28,
+    "letter_spacingh2": 0,
+    "font_sizeh3": 24,
+    "font_sizeh3_mobile": 24,
+    "letter_spacingh3": 0,
+    "font_sizeh4": 20,
+    "font_sizeh4_mobile": 20,
+    "letter_spacingh4": 0,
+    "font_sizeh5": 16,
+    "font_sizeh5_mobile": 16,
+    "letter_spacingh5": 0,
+    "font_sizeh6": 14,
+    "font_sizeh6_mobile": 14,
+    "letter_spacingh6": 0,
+    "type_accent_family": "poppins_n4",
+    "type_base_family": "poppins_n4",
+    "btn-border": 2,
+    "btn-radius": 62,
+    "btn-border-hover": 2,
+    "color_primary": "#f590b4",
+    "color_primary-hover": "#fdfdfd",
+    "color_button_text": "#ffffff",
+    "color_button_text-hover": "#f590b4",
+    "btn-border-color": "#ffffff",
+    "btn-border-hover-color": "#f590b4",
+    "title-aos": "none",
+    "bb-aos": "none",
+    "soustitre-aos": "none",
+    "gallery-aos": "none",
+    "faq-aos": "none",
+    "css-space": "\/* Ajoutez du css ici *\/",
+    "upsell-active": false,
+    "selectedproduct": "montre-sport",
+    "upsell-backbround-color": "#ffffff",
+    "upsell-title-color": "#050505",
+    "upsell-price-color": "#000000",
+    "add-to-cart-txt-upsell": "Ajouter au panier",
+    "variantes-hb": 6,
+    "variantes-dg": 0,
+    "standard-variant-fullsize": false,
+    "standard-variant-border": 2,
+    "standard-variant-border-radius": 75,
+    "standard-variant-selected-border-radius": 72,
+    "standard-variant-selected-text": "#000000",
+    "standard-variant-border-color": "#000000",
+    "standard-variant-selected-border-color": "#3faab5",
+    "color-swatch-featured": true,
+    "swatchlabel": false,
+    "swatch-border": 3,
+    "swatch-border-hover": 3,
+    "swatch-border-color": "#000000",
+    "swatch-border-color-hover": "#000000",
+    "swatch-border-color-selected": "#3faab5",
+    "bundle": false,
+    "bundle-img-radius": false,
+    "bundle-flash": false,
+    "bundle-percent": false,
+    "bundle-flash-color": "#000000",
+    "quantity-full": true,
+    "quantity-radius": true,
+    "atc": true,
+    "sticky-pos": "bottom",
+    "sticky-pos-mobile": "bottom",
+    "margin-top-desktop": 150,
+    "margin-top-mobile": 110,
+    "margin-top-page-product-desktop": 150,
+    "margin-top-page-product-mobile": 0,
+    "backgroundatc": "#ececec",
+    "title1-mt": 60,
+    "title1-mb": 60,
+    "title2-spacing": 0,
+    "title2-mt": 68,
+    "title2-mb": 60,
+    "title3-mt": 68,
+    "title3-mb": 60,
+    "title4-mt": 60,
+    "title4-mb": 60,
+    "title5-mt": 60,
+    "title5-mb": 60,
+    "title6-mt": 60,
+    "title6-mb": 60,
+    "paragraph-mb": 25,
+    "amazing": false,
+    "product-mi": false,
+    "product-imgtxt": false,
+    "product-imgtxtg": false,
+    "product-faq": false,
+    "custom-html-prod": false,
+    "product-reco": false,
+    "product-avis": false,
+    "product-avis-slider": true,
+    "product-rea": true,
+    "custom-product": false,
+    "custom-imgtxt": false,
+    "custom-faq": true,
+    "custom-reco": false,
+    "custom-avis": false,
+    "custom-rea": false,
+    "cart_type": "drawer",
+    "cart_notes_enable": false,
+    "reserved": true,
+    "cart-radius": false,
+    "drawer-radius": true,
+    "cart-icon-text": "<b> FREE Express Shipping<\/b>",
+    "text-before-timer": "Your cart is reserved for only",
+    "text-after-timer": "minutes",
+    "color_drawer_background": "#ececec",
+    "color_drawer_text": "#000000",
+    "color_drawer_button": "#f590b4",
+    "drawer-color-cart-icon": "#f590b4",
+    "favicon": "shopify:\/\/shop_images\/ezgif-3-4cf0dfc5eb4f_7f1f9d6d-44e1-43a6-8de9-8516ad48972a.gif",
+    "enable-right-clic": true,
+    "enable-text-selection": true,
+    "enable-image-drag": true,
+    "newsactive": false,
+    "newstime": 7,
+    "newstitle": "Follow our daily emails!",
+    "cooks": true,
+    "cookstxt": "This website uses cookies to ensure that you have the best possible experience on our website.",
+    "cookstxt-agree": "I Accept",
+    "cookstxt-refuse": "Refuse",
+    "show_order_notification": false,
+    "show_order_notification-mobile": false,
+    "position-popup": true,
+    "livenotificationtime": 16,
+    "fomo_collection": "",
+    "blockbackground-popup": "#ececec",
+    "bordercolor-popup": "#000000",
+    "color-article": "#000000",
+    "ville-popup": "'New York', 'Los Angeles', 'Chicago', 'Houston', 'Philadelphia', 'Phoenix', 'San Antonio', 'San Diego', 'Dallas', 'San Jose', 'Jacksonville', 'Indianapolis', 'San Francisco', 'Austin', 'Columbus', 'Fort Worth', 'Detroit', ' El Paso', 'Boston', 'Denver', 'Portland',",
+    "france-text": ", has purchased",
+    "show-loader": false,
+    "loader-svg": "<svg version='1.1' id='L9' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink' x='0px' y='0px' viewBox='0 0 100 100' enable-background='new 0 0 0 0' xml:space='preserve'> <rect x='20' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0' dur='0.6s' repeatCount='indefinite' \/> <\/rect> <rect x='30' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0.2s' dur='0.6s' repeatCount='indefinite' \/> <\/rect> <rect x='40' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0.4s' dur='0.6s' repeatCount='indefinite' \/> <\/rect><\/svg>",
+    "loading-time": 4,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Baby_Cocoon_-removebg-preview.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
+    "checkout_accent_color": "#f590b4",
+    "checkout_button_color": "#f590b4",
+    "checkout_error_color": "#ff5756",
+    "enable-keyboard": false,
+    "type_header_base_size": "32px",
+    "type_header_border_thickness": "3px",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "bfc8e4de-e81c-4e1d-8045-08283be9a5aa": {
+            "type": "select",
+            "settings": {
+              "content": "FREE Shipping",
+              "icon": "truck"
+            }
+          },
+          "d4bad9e0-b8fa-4c89-9dd6-d9d218a20215": {
+            "type": "select",
+            "settings": {
+              "content": "100% SECURE Payment",
+              "icon": "lock"
+            }
+          },
+          "92764661-8ae7-4201-a0ca-5ff3c12c944d": {
+            "type": "select",
+            "settings": {
+              "content": "+170.000 SATISFIED Customers",
+              "icon": "user"
+            }
+          },
+          "92b329ee-972b-4c7c-9f1e-897cf77f52a6": {
+            "type": "select",
+            "settings": {
+              "content": "30 days SATISFIED or REFUNDED",
+              "icon": "box-open"
+            }
+          },
+          "0e0dd285-f702-4912-9d46-5abf3aed3303": {
+            "type": "select",
+            "settings": {
+              "content": "DovaSkin™ WEB EXCLUSIVITY",
+              "icon": "search"
+            }
+          }
+        },
+        "block_order": [
+          "bfc8e4de-e81c-4e1d-8045-08283be9a5aa",
+          "d4bad9e0-b8fa-4c89-9dd6-d9d218a20215",
+          "92764661-8ae7-4201-a0ca-5ff3c12c944d",
+          "92b329ee-972b-4c7c-9f1e-897cf77f52a6",
+          "0e0dd285-f702-4912-9d46-5abf3aed3303"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Baby_Cocoon_-removebg-preview.png",
+          "logo_max_width": 215,
+          "background-gradients1": "#ffffff",
+          "background-gradients2": "#ffffff",
+          "gradients-side": "to right",
+          "header_color": "#000000",
+          "transparent_header_enable": false,
+          "sticky-head": "partout",
+          "transparent_header_color": "#000000",
+          "search": "modal",
+          "main_menu_link_list": "footer",
+          "drawer_bottom_link_list": "menu-pied-page-2",
+          "drawer_search_enable": false,
+          "fa-icon": "shopping-cart",
+          "show_announcement": true,
+          "home_page_only": false,
+          "annonce": "amazing",
+          "texte-gras": "INCROYABLE :",
+          "text": "Annoncer quelque chose ici",
+          "background-gradientss1": "#000000",
+          "background-gradientss2": "#000000",
+          "gradientss-side": "to right",
+          "color_text": "#ffffff",
+          "speed": 16,
+          "gauche": false,
+          "maintext": "❄️ WINTER OFFER ❄️",
+          "nonestatic": true,
+          "flash": true,
+          "temps": 1,
+          "background-gradient1": "#000000",
+          "background-gradient2": "#000000",
+          "gradient-side": "to right",
+          "color-stat": "#ffffff",
+          "color-dyna": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_payment_icons": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "footer_link_list": "footer",
+          "footer_link_list-two": "menu-pied-page-2",
+          "custom-text": false,
+          "custom-text-title": "Questions",
+          "custom-text-content": "",
+          "newsletter": false,
+          "newstitre": "Join our newsletter!",
+          "newsletter-content": "<p>Subscribe to receive all our news!<\/p>",
+          "left-mob": true,
+          "footer-title-color": true,
+          "background-gradient1": "#ececec",
+          "background-gradient2": "#ececec",
+          "gradient-side": "to right",
+          "title-color": "#d55180",
+          "text-color": "#000000",
+          "text-color-hover": "#f590b4",
+          "phb": 25
+        }
+      },
+      "product-main-image": {
+        "type": "product-main-image",
+        "blocks": {
+          "80a73d15-c7f9-4f59-be7a-6fd699a48502": {
+            "type": "slide",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "image": "shopify:\/\/shop_images\/Sans_titre-3.jpg",
+              "image_position": "center center",
+              "image_overlay": true,
+              "image_overlay_opacity": 25,
+              "text_alignment": "center",
+              "slide_heading": "Bannière de premier plan",
+              "slide_subheading": "Introduction",
+              "button_label": "Acheter maintenant",
+              "slide_text_color": "#ffffff",
+              "slide_button_label_color": "#ffffff",
+              "slide_button_background_color": "#1f2021"
+            }
+          }
+        },
+        "block_order": [
+          "80a73d15-c7f9-4f59-be7a-6fd699a48502"
+        ],
+        "settings": {
+          "home_hero_height": "adapt",
+          "hero_home_auto": false,
+          "home_hero_auto_speed": 5,
+          "on-image": true,
+          "top-content": 8,
+          "title-size": 28,
+          "title-color": "#ffffff",
+          "subtitle-color": "#ffffff"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "2907215c-d00d-449c-b5c1-570e95deef33": {
+            "type": "mention",
+            "settings": {
+              "custom-content-first": "Take advantage of this discount today!",
+              "first-type": "s",
+              "icon-first": "angle-right",
+              "color-first": "#000000",
+              "color-first-icon": "#000000",
+              "hb-mention": 0
+            }
+          },
+          "da14c272-c4a2-4a6b-b4ec-e4d04fb8279e": {
+            "type": "accordion",
+            "settings": {
+              "title": "Specifications",
+              "text": "<p><strong>Product Name:<\/strong> DovaSkin™ Beauty Instrument<\/p><p><strong>Size:<\/strong> 115 x 45.3 x 40.9 mm<\/p><p><strong>Net Weight:<\/strong> about 104g<\/p><p><strong>Battery capacity:<\/strong> 700mAh<\/p><p><strong>Charging mode:<\/strong> USB Charging<\/p>",
+              "accordion-icon": "info-circle",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "7d5ff5d4-1484-4d78-b10c-3c8747c692dc": {
+            "type": "accordion",
+            "settings": {
+              "title": "Warranty",
+              "text": "<p><strong>WHAT ARE THE CONDITIONS TO BENEFIT FROM THE &quot;SATISFIED OR REIMBURSED&quot; WARRANTY?<\/strong><\/p><p>To benefit from the &quot;satisfied or reimbursed&quot; guarantee, you must be within 14 days from the date of receipt of your order. You must obligatorily contact us before any return in order to follow the indicated procedure and ensure a good return of the product. <\/p><p>For more information, go to the <a href=\"\/pages\/faq\" title=\"FAQ\">FAQ page<\/a>.<\/p>",
+              "accordion-icon": "check-circle",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "0784eed6-075f-4f5e-bb0a-51ef398bc5d0": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "dovaskin™",
+              "startop": 4.5,
+              "startop-names": "3176 Reviews"
+            }
+          }
+        },
+        "block_order": [
+          "2907215c-d00d-449c-b5c1-570e95deef33",
+          "da14c272-c4a2-4a6b-b4ec-e4d04fb8279e",
+          "7d5ff5d4-1484-4d78-b10c-3c8747c692dc",
+          "0784eed6-075f-4f5e-bb0a-51ef398bc5d0"
+        ],
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "grid-image-size": "five",
+          "align-title": "left",
+          "show-description": "down",
+          "product_vendor_enable": false,
+          "social_sharing_products": false,
+          "taxes": false,
+          "enable_payment_button": false,
+          "only-dynamic": false,
+          "show_variant_labels": false,
+          "hide-first-variant": false,
+          "startop-size": 16,
+          "starm": 2,
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 25,
+          "price-size-sale": 20,
+          "price-size-bar": 16,
+          "price-color": "#036600",
+          "price-color-sale": "#036600",
+          "price-color-barre": "#838383",
+          "barre-gras": true,
+          "hb-percent": 4,
+          "percent-economy": false,
+          "percent-gras": true,
+          "percent-text-before": "Save",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Add to Cart",
+          "height-atc": 55,
+          "size-police": 16,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "plus",
+          "cta-animation": "rotater",
+          "anim-time": 9,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "left",
+          "payment-width": 60,
+          "logo-payment": "shopify:\/\/shop_images\/secured_payment.png",
+          "mt-payment-btn": 10,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": true,
+          "bbwidth": 3,
+          "bblength": 9,
+          "bbmt": 16,
+          "favicon": "shopify:\/\/shop_images\/ezgif-3-4cf0dfc5eb4f_7f1f9d6d-44e1-43a6-8de9-8516ad48972a.gif",
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "Vous pourriez aimer également"
+        }
+      },
+      "reassurance": {
+        "type": "reassurance",
+        "blocks": {
+          "5386e53e-7691-4149-aeae-45a2bfee3d99": {
+            "type": "select",
+            "settings": {
+              "title": "Delivery in 48h",
+              "content": "",
+              "icon": "shipping-fast",
+              "image-width": 50
+            }
+          },
+          "c773bf1a-9a53-409e-a697-b8eb71218e6d": {
+            "type": "select",
+            "settings": {
+              "title": "100% Secure Payment",
+              "content": "",
+              "icon": "lock",
+              "image-width": 50
+            }
+          },
+          "ed8dce1d-15b8-47c2-ac48-f239f9e26044": {
+            "type": "select",
+            "settings": {
+              "title": "Quality Support",
+              "content": "",
+              "icon": "phone",
+              "image-width": 50
+            }
+          },
+          "02d82f83-7113-4d6f-b6f1-84a465227631": {
+            "type": "select",
+            "settings": {
+              "title": "Satisfaction Guaranteed",
+              "content": "",
+              "icon": "smile",
+              "image-width": 50
+            }
+          }
+        },
+        "block_order": [
+          "5386e53e-7691-4149-aeae-45a2bfee3d99",
+          "c773bf1a-9a53-409e-a697-b8eb71218e6d",
+          "ed8dce1d-15b8-47c2-ac48-f239f9e26044",
+          "02d82f83-7113-4d6f-b6f1-84a465227631"
+        ],
+        "settings": {
+          "two": true,
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "dg-d": 0,
+          "cart-align": "center",
+          "icon-color": "#f590b4",
+          "textassurance-color": "#000000"
+        }
+      },
+      "1604759152b76a67a7": {
+        "type": "slideshow",
+        "blocks": {
+          "1604759152b76a67a7-0": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pexels-andrea-piacquadio-3775118.jpg",
+              "image_position": "center center",
+              "image_overlay": true,
+              "image_overlay_opacity": 51,
+              "text_alignment": "center",
+              "slide_subheading": "",
+              "slide_heading": "DovaSkin™",
+              "subtitle": "Discover the benefits of natural microcurrent and radiofrequency therapy for perfect skin\n<br><br>",
+              "button_label": "Shop Now",
+              "button_link": "shopify:\/\/products\/dovaskin™",
+              "slide_text_color": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1604759152b76a67a7-0"
+        ],
+        "settings": {
+          "home_hero_height": "full",
+          "hero_home_auto": false,
+          "home_hero_auto_speed": 5,
+          "on-image": true,
+          "top-content": 0,
+          "title-size": 30,
+          "title-color": "#ffffff",
+          "subtitle-color": "#ffffff"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "a198d700-c4fb-4657-8068-f4a279d0c514": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "a198d700-c4fb-4657-8068-f4a279d0c514"
+        ],
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_collection_image": false,
+          "collection_sort_enable": false,
+          "collection_tags_enable": false,
+          "collection_products_grid": "grid",
+          "align-content": "center",
+          "product_vendor_enable": false,
+          "enable-second-img": true,
+          "display-radius": false,
+          "display-sale": false,
+          "display-color": false,
+          "two": true,
+          "enable-startop": true,
+          "enable-button": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 5,
+          "startop-color": "#ffe325"
+        }
+      },
+      "avis-product": {
+        "type": "avis-product",
+        "blocks": {
+          "435bc64e-9137-4f14-b19f-bfa384501432": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "name": "John Doe",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          },
+          "3462c983-58da-4e30-90bf-cdbb2b53e945": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-bg-du-74",
+              "name": "TOTO",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          },
+          "5d7d50f9-442d-44f2-b04c-7e7c2b34b83c": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "name": "John Doe",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          }
+        },
+        "block_order": [
+          "435bc64e-9137-4f14-b19f-bfa384501432",
+          "3462c983-58da-4e30-90bf-cdbb2b53e945",
+          "5d7d50f9-442d-44f2-b04c-7e7c2b34b83c"
+        ],
+        "settings": {
+          "title": "Reviews",
+          "subtitle": "fghdedfghdfhdfh",
+          "background-color": "#ffffff",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#ff0000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "border-size": 0,
+          "carte-radius": 3,
+          "carte-padding-main": 15,
+          "carte-padding-img": 0,
+          "cart-shadow-size": 15,
+          "background-carte": "#ffffff",
+          "color-carte": "#000000",
+          "border-color": "#000000",
+          "cart-shadow-color": "#d4d4d4",
+          "arrow-color": "#ffffff",
+          "arrow-color-hover": "#000000",
+          "validate-color": "#1a86e5",
+          "etoile-color": "#ffe325",
+          "enable-name": true,
+          "enable-date": true,
+          "enable-stars": true,
+          "enable-avis": true,
+          "content-align": "left",
+          "name-size": "4",
+          "namemb": 0,
+          "namemt": 0,
+          "datemt": 6,
+          "etoile-size": 19,
+          "margin-star": 9,
+          "txtm": 2
+        }
+      },
+      "reviews-slider-product": {
+        "type": "reviews-slider-product",
+        "blocks": {
+          "0e143319-6d08-47ff-9aa1-4df97a21f146": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/11_e6c3d243-87f9-484c-a08f-78b92a14144e.jpg",
+              "name": "by Emma M.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This product is amazing! It really works and it has made a big difference in the way my face feels and looks. I recommend <strong>DovaSkin™ Lifting Cleaner<\/strong> to anyone who wants to change their appearance. I told my sister about it and she now uses it too and loves it as much as I do.<\/p>"
+            }
+          },
+          "62faf74d-5552-44ba-9aee-8a811e87fd2e": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "name": "by Olivia D.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been using <strong>DovaSkin™ Lifting Cleaner<\/strong> for three weeks and people notice that my face is different. I feel softer and my skin is more radiant. I recommend it, but I use it in medium power, because I don&#x27;t like when the power is high (unlike my sister).<\/p>"
+            }
+          },
+          "ccd141a9-252e-444e-9575-7eef30bcab75": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/12_5bfe953f-47a6-49ad-92b4-5a6d5f473881.jpg",
+              "name": "by Isabella W.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been using <strong>DovaSkin™ Lifting Cleaner<\/strong> for some time now and my complexion has improved since then. Of course, it cannot evoke the past years. The product is very productive and pleasant to use. Personally, I can only recommend it!<\/p>"
+            }
+          },
+          "49a4b948-aaee-45d9-91b2-698d9b9cc4a4": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612653996700-01.jpg",
+              "name": "by Noah A.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I can see the difference in my jaws, the skin is firm, it is a very good product for lifting. Thank you <strong>DovaSkin™ Lifting Cleaner<\/strong>!<\/p>"
+            }
+          },
+          "f115065f-aadc-49e7-8b58-9d46465c8ff9": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654108080-01.jpg",
+              "name": "by Jade Z.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have rarely seen such a useful product... I am a compulsive buyer of creams and products of all kinds to deeply moisturize my skin, and the <strong>DovaSkin™ Lifting Cleaner<\/strong> is perfect! I never leave comments, but right now I am so thrilled that I am taking the time to evaluate this product.<\/p>"
+            }
+          },
+          "d2a673b1-cd96-4141-bc4d-4a48d0a7a37a": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612653924264-01.jpg",
+              "name": "by Ashley R.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>The feeling is incredible, it&#x27;s perfect, and the design is very clean. After using this beauty instrument <strong>DovaSkin™ Lifting Cleaner<\/strong>, the condition of the skin has clearly improved, the acne has disappeared and the shine of the skin is very good, my boyfriend congratulates me that my face has become beautiful, it&#x27;s my love at heart to have bought this product!<\/p>"
+            }
+          },
+          "7712af9d-3077-45f1-a4db-0daf1ee4e7df": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654552594-01.jpg",
+              "name": "by Billie Y.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>During the last few months with the appearance of the &quot;Covid&quot; masks I noticed that my skin was not very beautiful and I could feel the fatigue on my face. I tried different cleansers for my skin but without success. I then tried the <strong>DovaSkin™ Lifting Cleaner<\/strong>. Even though I was a little skeptical, I have been using it for a week now and I feel a real difference. I don&#x27;t know exactly what micro-current technology is, but it is comfortable and I like the fact that it is like that.<\/p>"
+            }
+          },
+          "44492a56-4af9-4593-a713-3bc06e3996bc": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654570804-01.jpg",
+              "name": "by Kelly U.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been suffering from rosacea for a few years now. I discovered the <strong>DovaSkin™ Lifting Cleaner<\/strong> on a whim, but let me tell you that it is one of the best things I have bought on the internet. My rosacea is already not so red anymore. I recommend 10\/10.<\/p>"
+            }
+          },
+          "64248bea-10fc-48bc-b712-451fa489bb4b": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654327465-01.jpg",
+              "name": "by Maddie I.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This <strong>DovaSkin™ Lifting Cleaner<\/strong> is really amazing because it provides (for me and my friends I recommended) the best facial skin care. I will use it every day for such a good effect! I really recommend it.<\/p>"
+            }
+          },
+          "024da3fc-84be-4624-82aa-deec634241e3": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612653967473-01.jpg",
+              "name": "by Ariana P.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Easy to use. Cordless. I love my new <strong>DovaSkin™ Lifting Cleaner<\/strong> for the face. I see immediate results after a few days. It doesn&#x27;t zap my face like the last two machines I tried! !! I bought one for my daughter, it&#x27;s really a nice purchase !!!!<\/p>"
+            }
+          },
+          "4ed8bbba-9f4d-4e3a-9fb7-dd9c0e73f8d5": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655158135-01.jpg",
+              "name": "by Ivy O.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I wasn&#x27;t sure what I was expecting, but after a few days of use, I&#x27;m conquered. My skin feels so much better. At this price level compared to beauty salons, you have nothing to lose by using the <strong>DovaSkin™ Lifting Cleaner<\/strong>.<\/p>"
+            }
+          },
+          "7382edf6-6a95-4388-b640-df19dcb3d64c": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654616085-01.jpg",
+              "name": "by Suzie S.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>As I am now in my forties, my skin is not as tight and firm as it used to be. I have tried all the serums and skin care products. After all my efforts, a friend recommended <strong>DovaSkin™ Lifting Cleaner<\/strong>. I had nothing to lose and everything to gain. The result is there, it works. I really feel better... So I can only advise you to buy the <strong>DovaSkin™ Lifting Cleaner<\/strong>.<\/p>"
+            }
+          },
+          "b2e12752-9384-4672-9fbb-564969780d56": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654969713-01.jpg",
+              "name": "by Abigaïl D.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This product is really the best purchase I have ever made. After every hard day at work, my skin felt really tired... but this <strong>DovaSkin™ Lifting Cleaner<\/strong> has solved the problem... After 5 minutes of use, I find myself with a smooth and taut skin, without the wrinkles of old age and fatigue, and all this makes a good ritual every day.<\/p>"
+            }
+          },
+          "fbf00123-5c69-40db-b84e-24ddf3f3ce95": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655239599-01.jpg",
+              "name": "by Daria F.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Easy to use, I like all the functions of <strong>DovaSkin™ Lifting Cleaner<\/strong> and I have been using it every day for 2 weeks. The <strong>DovaSkin™ Lifting Cleaner<\/strong> can be used at home, while traveling, to help relax the tired skin on your face. After using it to massage my face, I felt my skin felt much smoother and softer! I can&#x27;t do without it anymore!<\/p>"
+            }
+          },
+          "f838ec03-29ac-428e-b1a9-7c27cf39e625": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655171514-01.jpg",
+              "name": "by Kylie N.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>My husband bought it for me about 3 weeks ago and I have been using it every other night since I received it. The progress is there... I can see the difference in the texture of my skin and I have also noticed that my face is much brighter.<\/p>"
+            }
+          },
+          "dc9a1e80-7893-4111-a57c-aef505ed60b6": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655216194-01.jpg",
+              "name": "by Lynn G.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>This <strong>DovaSkin™ Lifting Cleaner<\/strong> is perfect: my skin changes considerably, fine lines are reduced and the nasolabial folds are blurred. The product is very comfortable to use, just like in the beauty salon. My face is warm and I can obviously feel the pulling of the skin. Sometimes I apply a moisturizing mask when I finish it. I feel more comfortable. My face is firmer.<\/p>"
+            }
+          },
+          "40b204bb-eae5-47bf-807b-bb861ad57b7f": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655340268-01.jpg",
+              "name": "by Jason L.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I bought the <strong>DovaSkin™ Lifting Cleaner<\/strong> as a gift for my 67-year-old mother a few months ago. She uses it faithfully and loves it. She already looks young for her age, but she is always looking for ways to rejuvenate her appearance. I was so impressed with the results on her that I ended up buying one. I have been using it 3 times a week for the past 3 weeks and I love it too. My face is firmer after just one use. It&#x27;s easy to use and I haven&#x27;t had any problems with pain or discomfort. I&#x27;m in my early 40&#x27;s and have only minimal signs of aging, but I was starting to have wrinkles that were a problem for me. This is no longer the case today! Thank you <strong>DovaSkin™<\/strong> !<\/p>"
+            }
+          },
+          "2b7eeab7-22b4-4e4e-9b2d-1fa90358827b": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612654587689-01.jpg",
+              "name": "by Ruby H.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>The <strong>DovaSkin™ Lifting Cleaner<\/strong> device is very simple. After charging it for one day, I have been using it for a few weeks without recharging it. After each use, I can say that my face tightens. I can see the results to the touch but even visually! I love this product!<\/p>"
+            }
+          },
+          "f3cacda5-e647-44e9-a527-62c9a519670e": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655310009-01.jpg",
+              "name": "by Saul V.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>So far, it&#x27;s great! Thanks to <strong>DovaSkin™ Lifting Cleaner<\/strong>, I have younger skin and I&#x27;m only 3 weeks along, but I feel that it has really lifted and firmed my skin. I can&#x27;t wait to see the results after a few months. I use it regularly and plan to continue. I like being able to take it everywhere and <strong>DovaSkin™ Lifting Cleaner<\/strong> is nice and compact.<\/p>"
+            }
+          },
+          "542a0ec3-66d6-4722-bf8b-b322f745c242": {
+            "type": "text",
+            "settings": {
+              "product": "dovaskin™",
+              "image": "shopify:\/\/shop_images\/1612655371990-01.jpg",
+              "name": "by Alec C.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>This product <strong>DovaSkin™ Lifting Cleaner<\/strong> first made me smile! I got it on a whim one day, without really expecting anything. To tell the truth, after using it regularly every morning for a week, my one eyelid that went down a little bit on the lash line straightened up and is about the same as my other eyelid! So I&#x27;m in a very good mood when I wake up in the morning and look at myself in the mirror!<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "0e143319-6d08-47ff-9aa1-4df97a21f146",
+          "62faf74d-5552-44ba-9aee-8a811e87fd2e",
+          "ccd141a9-252e-444e-9575-7eef30bcab75",
+          "49a4b948-aaee-45d9-91b2-698d9b9cc4a4",
+          "f115065f-aadc-49e7-8b58-9d46465c8ff9",
+          "d2a673b1-cd96-4141-bc4d-4a48d0a7a37a",
+          "7712af9d-3077-45f1-a4db-0daf1ee4e7df",
+          "44492a56-4af9-4593-a713-3bc06e3996bc",
+          "64248bea-10fc-48bc-b712-451fa489bb4b",
+          "024da3fc-84be-4624-82aa-deec634241e3",
+          "4ed8bbba-9f4d-4e3a-9fb7-dd9c0e73f8d5",
+          "7382edf6-6a95-4388-b640-df19dcb3d64c",
+          "b2e12752-9384-4672-9fbb-564969780d56",
+          "fbf00123-5c69-40db-b84e-24ddf3f3ce95",
+          "f838ec03-29ac-428e-b1a9-7c27cf39e625",
+          "dc9a1e80-7893-4111-a57c-aef505ed60b6",
+          "40b204bb-eae5-47bf-807b-bb861ad57b7f",
+          "2b7eeab7-22b4-4e4e-9b2d-1fa90358827b",
+          "f3cacda5-e647-44e9-a527-62c9a519670e",
+          "542a0ec3-66d6-4722-bf8b-b322f745c242"
+        ],
+        "settings": {
+          "title": "Reviews Slider",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon": "shopify:\/\/shop_images\/heart.gif",
+          "favicon-size": 20,
+          "favicon-mb": 4,
+          "favicon-mr": 2,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#767676",
+          "arrow-color": "#000000",
+          "enable-startop": true,
+          "startop": 4.5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "img-radius": 7,
+          "star-size": 14,
+          "star-color": "#ffe325",
+          "validate-color": "#1a86e5",
+          "content-color": "#000000"
+        }
+      },
+      "image-and-text": {
+        "type": "image-and-text",
+        "blocks": {
+          "c8f781c7-da30-4dad-acfd-bd809c89433b": {
+            "type": "img",
+            "settings": {
+              "product_trigger": "copie-de-montre-bg-du-73",
+              "layout": "right",
+              "title": "Image avec texte",
+              "text": "<p>Associez un texte de grande taille à une image pour mettre en relief le produit, la collection ou l&#x27;article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "c8f781c7-da30-4dad-acfd-bd809c89433b"
+        ],
+        "settings": {
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "radius": false,
+          "title-tag": "2",
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "featured-row": {
+        "type": "featured-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/photo-1507428861205-e8aab693190e.jpg",
+          "radius": false,
+          "marg": true,
+          "layout": "left",
+          "title": "Image avec texte",
+          "text": "<p>Associez un texte de grande taille à une image pour mettre en relief le produit, la collection ou l&#x27;article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>",
+          "button_label": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "title-tag": "2",
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "content": "#000000"
+        }
+      },
+      "16047821078f1ea1d1": {
+        "type": "reassurance",
+        "blocks": {
+          "16047821078f1ea1d1-2": {
+            "type": "select",
+            "settings": {
+              "title": "Delivery in 48h",
+              "content": "",
+              "icon": "shipping-fast",
+              "image-width": 50
+            }
+          },
+          "16047821078f1ea1d1-0": {
+            "type": "select",
+            "settings": {
+              "title": "100% Secure Payment",
+              "content": "",
+              "icon": "lock",
+              "image-width": 50
+            }
+          },
+          "16047821078f1ea1d1-3": {
+            "type": "select",
+            "settings": {
+              "title": "Quality Support",
+              "content": "",
+              "icon": "phone",
+              "image-width": 64
+            }
+          },
+          "16047821078f1ea1d1-1": {
+            "type": "select",
+            "settings": {
+              "title": "Satisfaction Guaranteed",
+              "content": "",
+              "icon": "smile",
+              "image-width": 50
+            }
+          }
+        },
+        "block_order": [
+          "16047821078f1ea1d1-2",
+          "16047821078f1ea1d1-0",
+          "16047821078f1ea1d1-3",
+          "16047821078f1ea1d1-1"
+        ],
+        "settings": {
+          "two": true,
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to bottom",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "dg-d": 0,
+          "cart-align": "center",
+          "icon-color": "#f590b4",
+          "textassurance-color": "#000000"
+        }
+      },
+      "amazing-annonce": {
+        "type": "amazing-annonce",
+        "blocks": {
+          "fdaa8f26-518a-4314-9269-4f56e868c907": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "0f872a8d-a1c0-4dc9-895f-3ddb8abca2bc": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "4f01865e-6878-4e83-a481-c6fed7b3a4fc": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "761ea943-391d-43fe-ad93-3511add5e71e": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          }
+        },
+        "block_order": [
+          "fdaa8f26-518a-4314-9269-4f56e868c907",
+          "0f872a8d-a1c0-4dc9-895f-3ddb8abca2bc",
+          "4f01865e-6878-4e83-a481-c6fed7b3a4fc",
+          "761ea943-391d-43fe-ad93-3511add5e71e"
+        ],
+        "settings": {
+          "maintext": "Offre unique : -50%",
+          "nonestatic": true,
+          "flash": true,
+          "temps": 1,
+          "background-gradient1": "#808080",
+          "background-gradient2": "#000000",
+          "gradient-side": "to right",
+          "color-stat": "#ffffff",
+          "color-dyna": "#ffffff"
+        }
+      },
+      "faq": {
+        "type": "faq",
+        "blocks": {
+          "ac67a2c4-59e8-4612-82c2-8013bf193a44": {
+            "type": "select",
+            "settings": {
+              "question": "DO YOU ALSO SHIP ABROAD?",
+              "reponse": "<p>Absolutely, we ship worldwide with PARCEL TRACKING.<\/p>"
+            }
+          },
+          "940bc6ed-68f4-454f-a9d1-5044dd32358d": {
+            "type": "select",
+            "settings": {
+              "question": "HOW MUCH ARE THE SHIPPING COSTS?",
+              "reponse": "<p>Delivery charges are FREE for all orders over 30 euros in Metropolitan France.<\/p><p>For other countries the costs vary according to the destination. <\/p>"
+            }
+          },
+          "76631485-be4d-4c85-84df-663945ca9b2e": {
+            "type": "select",
+            "settings": {
+              "question": "WHAT ARE THE PREPARATION AND SHIPPING TIMES?",
+              "reponse": "<p>Orders are shipped within 72 hours to the United States. They are delivered in 1 week for Europe. <\/p>"
+            }
+          },
+          "4b839d29-cd03-4a99-9f7b-af102f38907a": {
+            "type": "select",
+            "settings": {
+              "question": "HOW CAN I CHECK THE STATUS OF MY ORDER?",
+              "reponse": "<p>After an order has been placed, it is sent as soon as possible to one of our shipping centers, from where your item will be shipped.<\/p><p>We will send you a confirmation email as soon as your package is shipped. You will then be able to check the progress of the delivery on our website in the &quot;Track my order&quot; tab using your email address and order number.<\/p>"
+            }
+          },
+          "79d0c8c0-cc4f-4a4e-8687-0ad92f7559cb": {
+            "type": "select",
+            "settings": {
+              "question": "HOW TO PLACE AN ORDER?",
+              "reponse": "<p>Simply choose your items and click on the &quot;ADD TO CART&quot; button, repeat for each item, then go to your cart and follow the steps to complete your order until payment is received. We will prepare it and send you an order confirmation email.<\/p>"
+            }
+          },
+          "0891757b-532c-4e6c-8e4e-30027513eff8": {
+            "type": "select",
+            "settings": {
+              "question": "WHAT PAYMENT METHODS DO YOU ACCEPT?",
+              "reponse": "<p>We accept Visa and Mastercard as well as payments via Paypal. Checks and transfers are not accepted.<\/p>"
+            }
+          },
+          "df726022-cb8f-4cee-bf79-c6ff9eb8cc5f": {
+            "type": "select",
+            "settings": {
+              "question": "IS THE PAYMENT SECURE?",
+              "reponse": "<p>Absolutely, our store is fully secured and we have a SSL encryption system to protect your personal and confidential data. We use the secure payment systems of Stripe and Paypal.<\/p>"
+            }
+          },
+          "7ccef02f-050b-4afc-99cd-96d7ac3157b4": {
+            "type": "select",
+            "settings": {
+              "question": "I STILL HAVE NOT RECEIVED MY ORDER, WHAT CAN I DO?",
+              "reponse": "<p>Have you received the shipping confirmation of your order? If your order has been shipped for more than 5 weeks, contact us with your order number, we will launch an investigation and get back to you within 48 hours.<\/p>"
+            }
+          },
+          "3f3c10a2-de14-4bb8-afcc-63d990a9c48e": {
+            "type": "select",
+            "settings": {
+              "question": "I ORDERED SEVERAL ITEMS AND I ONLY RECEIVED PART OF MY ORDER, IS THIS NORMAL?",
+              "reponse": "<p>Yes, this is completely normal. To minimize your wait, we ship all items separately as soon as they are ready to be shipped. The rest of your order should arrive in the next few days.<\/p>"
+            }
+          },
+          "a2d0ca7b-e908-465e-a73b-ff2b5f222757": {
+            "type": "select",
+            "settings": {
+              "question": "I RECEIVED A DAMAGED\/DEFECTIVE ITEM, WHAT SHOULD I DO?",
+              "reponse": "<p>We are sorry, unfortunately this can happen. Please contact us explaining the problem and attaching a photo as proof, we will do our best to find a solution.<\/p>"
+            }
+          },
+          "f804925a-76a5-4554-8e78-4989d3e19550": {
+            "type": "select",
+            "settings": {
+              "question": "I AM NOT SATISFIED WITH MY ORDER, CAN I GET A REFUND?",
+              "reponse": "<p>Absolutely, you have 14 days from the date of receipt of your order to return any product that you are not completely satisfied with. <\/p><p>You must print out the withdrawal form, send it to us by email and return your items to the address indicated (a return number will be given to you before sending it back).<\/p><p>The return is made exclusively by post to our address and the return costs remain at your expense communicated by email in return for your request. Upon receipt, your order will be fully refunded.<\/p><p>For more information, please consult the <a title=\"Return Policy\" href=\"\/pages\/return-policy\">Returns page<\/a>.<\/p>"
+            }
+          },
+          "a3fc437f-d5a2-49e0-8d74-6f98f4e2399c": {
+            "type": "select",
+            "settings": {
+              "question": "WHAT ARE THE CONDITIONS TO BENEFIT FROM THE \"SATISFIED OR REIMBURSED\" GUARANTEE?",
+              "reponse": "<p>You must be within 14 days from the date of receipt of your order to benefit from the &quot;Satisfied or Refunded&quot; guarantee, you must contact us before any return in order to follow the procedure indicated and the product must be returned to us in its original condition and packaging.<\/p>"
+            }
+          },
+          "d458da66-9994-40ad-b0b4-46f31a76b3e1": {
+            "type": "select",
+            "settings": {
+              "question": "IN WHICH CASES I WILL NOT BE REIMBURSED?",
+              "reponse": "<p>If the product has been used and is therefore not resalable as is.<\/p><p>If the shipment has not arrived at its destination due to an error in the delivery address indicated when ordering.<\/p><p>If the returns process has not been respected.<\/p><p>For more information, we invite you to consult the <a title=\"Return Policy\" href=\"\/pages\/return-policy\">Returns page<\/a>.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "ac67a2c4-59e8-4612-82c2-8013bf193a44",
+          "940bc6ed-68f4-454f-a9d1-5044dd32358d",
+          "76631485-be4d-4c85-84df-663945ca9b2e",
+          "4b839d29-cd03-4a99-9f7b-af102f38907a",
+          "79d0c8c0-cc4f-4a4e-8687-0ad92f7559cb",
+          "0891757b-532c-4e6c-8e4e-30027513eff8",
+          "df726022-cb8f-4cee-bf79-c6ff9eb8cc5f",
+          "7ccef02f-050b-4afc-99cd-96d7ac3157b4",
+          "3f3c10a2-de14-4bb8-afcc-63d990a9c48e",
+          "a2d0ca7b-e908-465e-a73b-ff2b5f222757",
+          "f804925a-76a5-4554-8e78-4989d3e19550",
+          "a3fc437f-d5a2-49e0-8d74-6f98f4e2399c",
+          "d458da66-9994-40ad-b0b4-46f31a76b3e1"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "first-elem-faq": false,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "answer-border-padding-left": 25,
+          "border-collapsed-size": 1,
+          "answer-border-width": 1,
+          "answer-border-type": "dashed",
+          "border-collapsed-color": "rgba(0,0,0,0)",
+          "title-color": "#000000",
+          "clic-title-color": "#000000",
+          "accordion-color": "#ffffff",
+          "clic-color": "#ffffff",
+          "text-color": "#000000",
+          "background-color-question-hover": "#ffffff",
+          "color-question-text-hover": "#000000"
+        }
+      },
+      "1605364128eb3607ed": {
+        "type": "reviews-slider",
+        "blocks": {
+          "1605364128eb3607ed-0": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/11_e6c3d243-87f9-484c-a08f-78b92a14144e.jpg",
+              "deletimage": false,
+              "name": "by Emma M.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This product is amazing! It really works and it has made a big difference in the way my face feels and looks. I recommend <strong>DovaSkin™ Lifting Cleaner<\/strong> to anyone who wants to change their appearance. I told my sister about it and she now uses it too and loves it as much as I do.<\/p>"
+            }
+          },
+          "1605364128eb3607ed-1": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "deletimage": false,
+              "name": "by Olivia D.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been using <strong>DovaSkin™ Lifting Cleaner<\/strong> for three weeks and people notice that my face is different. I feel softer and my skin is more radiant. I recommend it, but I use it in medium power, because I don&#x27;t like when the power is high (unlike my sister).<\/p>"
+            }
+          },
+          "1605364128eb3607ed-2": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/12_5bfe953f-47a6-49ad-92b4-5a6d5f473881.jpg",
+              "deletimage": false,
+              "name": "by Isabella W.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been using <strong>DovaSkin™ Lifting Cleaner<\/strong> for some time now and my complexion has improved since then. Of course, it cannot evoke the past years. The product is very productive and pleasant to use. Personally, I can only recommend it!<\/p>"
+            }
+          },
+          "1605364128eb3607ed-3": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612653996700-01.jpg",
+              "deletimage": false,
+              "name": "by Noah A.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>I can see the difference in my jaws, the skin is firm, it is a very good product for lifting. Thank you <strong>DovaSkin™ Lifting Cleaner<\/strong>!<\/p>"
+            }
+          },
+          "1605364128eb3607ed-4": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654108080-01.jpg",
+              "deletimage": false,
+              "name": "by Jade Z.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have rarely seen such a useful product... I am a compulsive buyer of creams and products of all kinds to deeply moisturize my skin, and the <strong>DovaSkin™ Lifting Cleaner<\/strong> is perfect! I never leave comments, but right now I am so thrilled that I am taking the time to evaluate this product.<\/p>"
+            }
+          },
+          "1605364128eb3607ed-6": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612653924264-01.jpg",
+              "deletimage": false,
+              "name": "by Ashley R.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>The feeling is incredible, it&#x27;s perfect, and the design is very clean. After using this beauty instrument <strong>DovaSkin™ Lifting Cleaner<\/strong>, the condition of the skin has clearly improved, the acne has disappeared and the shine of the skin is very good, my boyfriend congratulates me that my face has become beautiful, it&#x27;s my love at heart to have bought this product!<\/p>"
+            }
+          },
+          "baf7eaae-143f-4617-a5ca-228e5ba1b4dc": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654552594-01.jpg",
+              "deletimage": false,
+              "name": "by Billie Y.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>During the last few months with the appearance of the &quot;Covid&quot; masks I noticed that my skin was not very beautiful and I could feel the fatigue on my face. I tried different cleansers for my skin but without success. I then tried the <strong>DovaSkin™ Lifting Cleaner<\/strong>. Even though I was a little skeptical, I have been using it for a week now and I feel a real difference. I don&#x27;t know exactly what micro-current technology is, but it is comfortable and I like the fact that it is like that.<\/p>"
+            }
+          },
+          "abd867ca-3bb7-4197-98ac-e870c3228663": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654570804-01.jpg",
+              "deletimage": false,
+              "name": "by Kelly U.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I have been suffering from rosacea for a few years now. I discovered the <strong>DovaSkin™ Lifting Cleaner<\/strong> on a whim, but let me tell you that it is one of the best things I have bought on the internet. My rosacea is already not so red anymore. I recommend 10\/10.<\/p>"
+            }
+          },
+          "83d373f9-531d-4e65-a863-bbf59de18ac8": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654327465-01.jpg",
+              "deletimage": false,
+              "name": "by Maddie I.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This <strong>DovaSkin™ Lifting Cleaner<\/strong> is really amazing because it provides (for me and my friends I recommended) the best facial skin care. I will use it every day for such a good effect! I really recommend it.<\/p>"
+            }
+          },
+          "74f9fe8f-f634-4cc2-85ca-468cf164c487": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612653967473-01.jpg",
+              "deletimage": false,
+              "name": "by Ariana P.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Easy to use. Cordless. I love my new <strong>DovaSkin™ Lifting Cleaner<\/strong> for the face. I see immediate results after a few days. It doesn&#x27;t zap my face like the last two machines I tried! !! I bought one for my daughter, it&#x27;s really a nice purchase !!!!<\/p>"
+            }
+          },
+          "d1c4473d-b3c2-49c8-ba0b-0ae1f369190a": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655158135-01.jpg",
+              "deletimage": false,
+              "name": "by Ivy O.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I wasn&#x27;t sure what I was expecting, but after a few days of use, I&#x27;m conquered. My skin feels so much better. At this price level compared to beauty salons, you have nothing to lose by using the <strong>DovaSkin™ Lifting Cleaner<\/strong>.<\/p>"
+            }
+          },
+          "26107da7-8c49-45f0-ae6c-31a5ea39f648": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654616085-01.jpg",
+              "deletimage": false,
+              "name": "by Suzie S.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>As I am now in my forties, my skin is not as tight and firm as it used to be. I have tried all the serums and skin care products. After all my efforts, a friend recommended <strong>DovaSkin™ Lifting Cleaner<\/strong>. I had nothing to lose and everything to gain. The result is there, it works. I really feel better... So I can only advise you to buy the <strong>DovaSkin™ Lifting Cleaner<\/strong>.<\/p>"
+            }
+          },
+          "4701799a-443f-4782-a5fc-25048e97833b": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654969713-01.jpg",
+              "deletimage": false,
+              "name": "by Abigaïl D.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>This product is really the best purchase I have ever made. After every hard day at work, my skin felt really tired... but this <strong>DovaSkin™ Lifting Cleaner<\/strong> has solved the problem... After 5 minutes of use, I find myself with a smooth and taut skin, without the wrinkles of old age and fatigue, and all this makes a good ritual every day.<\/p>"
+            }
+          },
+          "0565baf2-bc95-44ac-a5cc-5fa08b8c5dd2": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655239599-01.jpg",
+              "deletimage": false,
+              "name": "by Daria F.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Easy to use, I like all the functions of <strong>DovaSkin™ Lifting Cleaner<\/strong> and I have been using it every day for 2 weeks. The <strong>DovaSkin™ Lifting Cleaner<\/strong> can be used at home, while traveling, to help relax the tired skin on your face. After using it to massage my face, I felt my skin felt much smoother and softer! I can&#x27;t do without it anymore!<\/p>"
+            }
+          },
+          "735d9e8c-45e0-4c80-a5bf-b7bc1495e26a": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655171514-01.jpg",
+              "deletimage": false,
+              "name": "by Kylie N.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>My husband bought it for me about 3 weeks ago and I have been using it every other night since I received it. The progress is there... I can see the difference in the texture of my skin and I have also noticed that my face is much brighter.<\/p>"
+            }
+          },
+          "310c1a4f-a7fa-4c1c-92b1-0da5d1cf90e5": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655216194-01.jpg",
+              "deletimage": false,
+              "name": "by Lynn G.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>This <strong>DovaSkin™ Lifting Cleaner<\/strong> is perfect: my skin changes considerably, fine lines are reduced and the nasolabial folds are blurred. The product is very comfortable to use, just like in the beauty salon. My face is warm and I can obviously feel the pulling of the skin. Sometimes I apply a moisturizing mask when I finish it. I feel more comfortable. My face is firmer.<\/p>"
+            }
+          },
+          "2722ce65-4854-46f3-8cd4-f1c40b50b424": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655340268-01.jpg",
+              "deletimage": false,
+              "name": "by Jason L.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>I bought the <strong>DovaSkin™ Lifting Cleaner<\/strong> as a gift for my 67-year-old mother a few months ago. She uses it faithfully and loves it. She already looks young for her age, but she is always looking for ways to rejuvenate her appearance. I was so impressed with the results on her that I ended up buying one. I have been using it 3 times a week for the past 3 weeks and I love it too. My face is firmer after just one use. It&#x27;s easy to use and I haven&#x27;t had any problems with pain or discomfort. I&#x27;m in my early 40&#x27;s and have only minimal signs of aging, but I was starting to have wrinkles that were a problem for me. This is no longer the case today! Thank you <strong>DovaSkin™<\/strong> !<\/p>"
+            }
+          },
+          "678ba81c-972b-41f1-b78b-5c3bcbb860cb": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655371990-01.jpg",
+              "deletimage": false,
+              "name": "by Alec C.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>This product <strong>DovaSkin™ Lifting Cleaner<\/strong> first made me smile! I got it on a whim one day, without really expecting anything. To tell the truth, after using it regularly every morning for a week, my one eyelid that went down a little bit on the lash line straightened up and is about the same as my other eyelid! So I&#x27;m in a very good mood when I wake up in the morning and look at myself in the mirror!<\/p>"
+            }
+          },
+          "064dacf1-cb64-4696-ac0b-64ac867585d1": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612654587689-01.jpg",
+              "deletimage": false,
+              "name": "by Ruby H.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>The <strong>DovaSkin™ Lifting Cleaner<\/strong> device is very simple. After charging it for one day, I have been using it for a few weeks without recharging it. After each use, I can say that my face tightens. I can see the results to the touch but even visually! I love this product!<\/p>"
+            }
+          },
+          "a00bd3c8-575d-48a2-b042-f55dddbe79de": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1612655310009-01.jpg",
+              "deletimage": false,
+              "name": "by Saul V.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>So far, it&#x27;s great! Thanks to <strong>DovaSkin™ Lifting Cleaner<\/strong>, I have younger skin and I&#x27;m only 3 weeks along, but I feel that it has really lifted and firmed my skin. I can&#x27;t wait to see the results after a few months. I use it regularly and plan to continue. I like being able to take it everywhere and <strong>DovaSkin™ Lifting Cleaner<\/strong> is nice and compact.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1605364128eb3607ed-0",
+          "1605364128eb3607ed-1",
+          "1605364128eb3607ed-2",
+          "1605364128eb3607ed-3",
+          "1605364128eb3607ed-4",
+          "1605364128eb3607ed-6",
+          "baf7eaae-143f-4617-a5ca-228e5ba1b4dc",
+          "abd867ca-3bb7-4197-98ac-e870c3228663",
+          "83d373f9-531d-4e65-a863-bbf59de18ac8",
+          "74f9fe8f-f634-4cc2-85ca-468cf164c487",
+          "d1c4473d-b3c2-49c8-ba0b-0ae1f369190a",
+          "26107da7-8c49-45f0-ae6c-31a5ea39f648",
+          "4701799a-443f-4782-a5fc-25048e97833b",
+          "0565baf2-bc95-44ac-a5cc-5fa08b8c5dd2",
+          "735d9e8c-45e0-4c80-a5bf-b7bc1495e26a",
+          "310c1a4f-a7fa-4c1c-92b1-0da5d1cf90e5",
+          "2722ce65-4854-46f3-8cd4-f1c40b50b424",
+          "678ba81c-972b-41f1-b78b-5c3bcbb860cb",
+          "064dacf1-cb64-4696-ac0b-64ac867585d1",
+          "a00bd3c8-575d-48a2-b042-f55dddbe79de"
+        ],
+        "settings": {
+          "title": "Reviews Slider",
+          "subtitle": "(3176)",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 0,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon": "shopify:\/\/shop_images\/heart.gif",
+          "favicon-size": 20,
+          "favicon-mb": 4,
+          "favicon-mr": 2,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#767676",
+          "arrow-color": "#000000",
+          "enable-startop": true,
+          "startop": 4.5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "img-radius": 7,
+          "star-size": 14,
+          "star-color": "#ffe325",
+          "validate-color": "#1a86e5",
+          "content-color": "#000000"
+        }
+      },
+      "product-template-dropdown": {
+        "type": "product-template-dropdown",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-bundle": {
+        "type": "product-template-bundle",
+        "blocks": {
+          "05a8b363-a2e4-4303-be2c-ba001798eda4": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "copie-de-montre-a-quartz",
+              "startop": 3.5,
+              "startop-names": "3176 Avis"
+            }
+          },
+          "3cbbf3b2-f1a1-472e-93e4-7953066d1064": {
+            "type": "accordion",
+            "settings": {
+              "title": "plop",
+              "text": "<p>Écrivez tout ce qui vous semble cohérent.<\/p>",
+              "accordion-icon": "angle-double-right",
+              "accordion-color": "#1f2021",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "1212da97-2b0a-4578-9447-0049cfb29fbc": {
+            "type": "accordion",
+            "settings": {
+              "title": "fgdghdfgdfgdfg",
+              "text": "<p>Écrivez tout ce qui vous semble cohérent.<\/p>",
+              "accordion-icon": "angle-double-right",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "92b6d18c-40ba-4873-9828-eabd613298b4": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "copie-de-montre-femme",
+              "startop": 4.5,
+              "startop-names": "3176 Avis"
+            }
+          }
+        },
+        "block_order": [
+          "05a8b363-a2e4-4303-be2c-ba001798eda4",
+          "3cbbf3b2-f1a1-472e-93e4-7953066d1064",
+          "1212da97-2b0a-4578-9447-0049cfb29fbc",
+          "92b6d18c-40ba-4873-9828-eabd613298b4"
+        ],
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "grid-image-size": "seven",
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": false,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "url_avis": "shopify:\/\/products\/copie-de-montre-femme",
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier",
+          "height-atc": 50,
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": true,
+          "show-viewers": true,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#000000",
+          "asepar": "#000000",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-buttons": {
+        "type": "product-template-buttons",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-dropswatch": {
+        "type": "product-template-dropswatch",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier test",
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "avis": {
+        "type": "avis",
+        "settings": {
+          "title": "Reviews",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#FFE325",
+          "border-size": 0,
+          "carte-radius": 3,
+          "carte-padding-main": 15,
+          "carte-padding-img": 0,
+          "cart-shadow-size": 15,
+          "background-carte": "#ffffff",
+          "color-carte": "#000000",
+          "border-color": "#000000",
+          "cart-shadow-color": "#d4d4d4",
+          "arrow-color": "#ffffff",
+          "arrow-color-hover": "#000000",
+          "validate-color": "#1A86E5",
+          "etoile-color": "#FFE325",
+          "enable-name": true,
+          "enable-date": true,
+          "enable-stars": true,
+          "enable-avis": true,
+          "content-align": "left",
+          "name-size": "4",
+          "namemb": 0,
+          "namemt": 0,
+          "datemt": 6,
+          "etoile-size": 19,
+          "margin-star": 9,
+          "txtm": 2
+        }
+      },
+      "product-template-buttonswatch": {
+        "type": "product-template-buttonswatch",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier",
+          "height-atc": 50,
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "advanced-content": {
+        "type": "advanced-content",
+        "blocks": {
+          "df872ba7-71dd-48f2-80e5-29f0c1171b24": {
+            "type": "html",
+            "settings": {
+              "code": "<div style=\"text-align:center;\">\n<h2>Utilisez le code HTML pour formater votre texte afin qu'il puisse être facilement lu.<\/h2>Vous pouvez utiliser ce texte pour partager des informations sur votre marque avec les clients.<\/div>",
+              "width": "100%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "df872ba7-71dd-48f2-80e5-29f0c1171b24"
+        ],
+        "settings": {
+        }
+      },
+      "16116826893c2f2e07": {
+        "type": "featured-product",
+        "blocks": {
+          "264077b2-e6c0-4cc5-b80b-747583a5f156": {
+            "type": "mention",
+            "settings": {
+              "custom-content-first": "Take advantage of this discount today!",
+              "first-type": "s",
+              "icon-first": "angle-right",
+              "color-first": "#000000",
+              "color-first-icon": "#000000",
+              "hb-mention": 0
+            }
+          },
+          "edccec84-47f9-4ab1-91ee-834e97c7f575": {
+            "type": "accordion",
+            "settings": {
+              "title": "Specifications",
+              "text": "<p><strong>Product Name:<\/strong> DovaSkin™ Lifting Cleaner<\/p><p><strong>Size:<\/strong> 115 x 45.3 x 40.9 mm<\/p><p><strong>Net Weight:<\/strong> about 104g<\/p><p><strong>Battery capacity:<\/strong> 700mAh<\/p><p><strong>Charging mode:<\/strong> USB Charging<\/p>",
+              "accordion-icon": "info-circle",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "85515ff6-783b-4263-811d-38cfb1717584": {
+            "type": "accordion",
+            "settings": {
+              "title": "Warranty",
+              "text": "<p><strong>WHAT ARE THE CONDITIONS TO BENEFIT FROM THE &quot;SATISFIED OR REIMBURSED&quot; WARRANTY?<\/strong><\/p><p>To benefit from the &quot;satisfied or reimbursed&quot; guarantee, you must be within 14 days from the date of receipt of your order. You must obligatorily contact us before any return in order to follow the indicated procedure and ensure a good return of the product. <\/p><p>For more information, go to the <a href=\"\/pages\/faq\" title=\"FAQ\">FAQ page<\/a>.<\/p>",
+              "accordion-icon": "check-circle",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          }
+        },
+        "block_order": [
+          "264077b2-e6c0-4cc5-b80b-747583a5f156",
+          "edccec84-47f9-4ab1-91ee-834e97c7f575",
+          "85515ff6-783b-4263-811d-38cfb1717584"
+        ],
+        "settings": {
+          "featured_product": "dovaskin™",
+          "grid-image-size": "five",
+          "align-title": "left",
+          "show-description": "bottom",
+          "all-image": true,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "show_vendor": false,
+          "taxes": false,
+          "quantity_enabled": true,
+          "enable_payment_button": false,
+          "only-dynamic": false,
+          "show_share_buttons": false,
+          "display-star": true,
+          "startop": 4.5,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-names": "3176 Reviews",
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 25,
+          "price-size-sale": 20,
+          "price-size-bar": 16,
+          "price-color": "#036600",
+          "price-color-sale": "#036600",
+          "price-color-barre": "#838383",
+          "barre-gras": true,
+          "hb-percent": 3,
+          "percent-economy": false,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Add to Cart",
+          "height-atc": 55,
+          "size-police": 16,
+          "icon-cart": "plus",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "enable_video_looping": false,
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 50,
+          "subtitle": "",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": true,
+          "bbwidth": 3,
+          "bblength": 9,
+          "bbmt": 16,
+          "favicon": "shopify:\/\/shop_images\/ezgif-3-4cf0dfc5eb4f_7f1f9d6d-44e1-43a6-8de9-8516ad48972a.gif",
+          "favicon-size": 30,
+          "favicon-mb": 1,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000"
+        }
+      },
+      "16127695565d6d43d9": {
+        "type": "featured-content",
+        "settings": {
+          "home_page_full_width": false,
+          "title": "About DovaSkin™",
+          "subtitle": "",
+          "text": "",
+          "text_size": "medium",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 5,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon": "shopify:\/\/shop_images\/question.gif",
+          "favicon-size": 25,
+          "favicon-mb": 6,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "content": "#000000"
+        }
+      },
+      "1612834502f905f9fe": {
+        "type": "faq",
+        "blocks": {
+          "16128345028cde77dc-0": {
+            "type": "select",
+            "settings": {
+              "question": "How does DovaSkin™ work?",
+              "reponse": "<p>DovaSkin™ Lifting Cleaner combines three advanced technologies to achieve clearer, healthier skin!<\/p><p><strong>1. <\/strong>EMS lifting which promotes the vibration of muscle co-frequencies to reduce double chin and create a perfect image.<\/p><p><strong>2.<\/strong> Radio Frequency Therapy, which cleanses impurities from our skin.<\/p><p><strong>3. <\/strong>Ionic Infusion which is a relaxing treatment that infuses fluids into the skin for a smooth and supple complexion.<\/p>"
+            }
+          },
+          "16128345028cde77dc-1": {
+            "type": "select",
+            "settings": {
+              "question": "How easy is it to use ?",
+              "reponse": "<p>How easy is it to use ?<\/p><p>The DovaSkin™ Lifting Cleaner is so easy to use, just follow the steps below!<\/p><p><strong>1. <\/strong>For a total effectiveness of DovaSkin™ start by first applying a cosmetic lotion or liquid gel on the face.<\/p><p><strong>2.<\/strong> Press the power button for more than 2 seconds to turn on the device.<\/p><p>3. Choose the mode: DovaSkin™ has 3 levels of intensity depending on the condition of the skin.<\/p><p><em>(We recommend using the first level for the first time).<\/em><\/p><p><strong>4. <\/strong>Gently move the device over the skin (please read the user manual for further instructions).<\/p><p><strong>5. <\/strong>After use, press and hold the power button for more than 3 seconds to turn it off.<\/p><p><strong>6. <\/strong>Sit back and relax and enjoy your smoother, healthier glow!<\/p>"
+            }
+          },
+          "16128345028cde77dc-2": {
+            "type": "select",
+            "settings": {
+              "question": "Can I use this product on my skin?",
+              "reponse": "<p>Our product is suitable for<strong> all skin types and tones<\/strong>! However, we do <strong>NOT <\/strong>recommend using on inflamed or irritated skin. Always ask your dermatologist or physician if you have any doubts.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "16128345028cde77dc-0",
+          "16128345028cde77dc-1",
+          "16128345028cde77dc-2"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 40,
+          "first-elem-faq": false,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": -10,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "answer-border-padding-left": 25,
+          "border-collapsed-size": 1,
+          "answer-border-width": 1,
+          "answer-border-type": "dashed",
+          "border-collapsed-color": "rgba(0,0,0,0)",
+          "title-color": "#000000",
+          "clic-title-color": "#000000",
+          "accordion-color": "#ffffff",
+          "clic-color": "#ffffff",
+          "text-color": "#000000",
+          "background-color-question-hover": "#ffffff",
+          "color-question-text-hover": "#000000"
+        }
+      }
+    },
+    "content_for_index": [
+      "1604759152b76a67a7",
+      "16116826893c2f2e07",
+      "1605364128eb3607ed",
+      "16127695565d6d43d9",
+      "1612834502f905f9fe",
+      "16047821078f1ea1d1"
+    ]
+  }
+}
