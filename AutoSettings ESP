@@ -120,7 +120,7 @@
     "enable-image-drag": true,
     "newsactive": false,
     "newstime": 7,
-    "cooks": true,
+    "cooks": false,
     "cookstxt": "Este sitio web utiliza cookies para asegurar que usted tenga la mejor experiencia posible en nuestro sitio web.",
     "cookstxt-agree": "Acepto",
     "cookstxt-refuse": "Desechos",
