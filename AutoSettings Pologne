@@ -1,1 +1,1948 @@
-
+{
+  "current": {
+    "color_body_text": "#000000",
+    "color_borders": "#000000",
+    "color_secondary": "#000000",
+    "color_sale_tag": "#767676",
+    "color-bordure-nav": "#000000",
+    "color-title-nav": "#000000",
+    "color-subhead-nav": "#000000",
+    "color-subhead-fly-nav": "#6e6e6e",
+    "type_header_family": "poppins_n7",
+    "font_sizeh1": 32,
+    "font_sizeh1_mobile": 32,
+    "letter_spacingh1": 0,
+    "font_sizeh2": 28,
+    "font_sizeh2_mobile": 28,
+    "letter_spacingh2": 0,
+    "font_sizeh3": 24,
+    "font_sizeh3_mobile": 24,
+    "letter_spacingh3": 0,
+    "font_sizeh4": 20,
+    "font_sizeh4_mobile": 20,
+    "letter_spacingh4": 0,
+    "font_sizeh5": 16,
+    "font_sizeh5_mobile": 16,
+    "letter_spacingh5": 0,
+    "font_sizeh6": 14,
+    "font_sizeh6_mobile": 14,
+    "letter_spacingh6": 0,
+    "type_accent_family": "poppins_n4",
+    "type_base_family": "poppins_n4",
+    "btn-border": 2,
+    "btn-radius": 62,
+    "btn-border-hover": 2,
+    "color_primary": "#312593",
+    "color_primary-hover": "#ffffff",
+    "color_button_text": "#ffffff",
+    "color_button_text-hover": "#312593",
+    "btn-border-color": "#ffffff",
+    "btn-border-hover-color": "#312593",
+    "title-aos": "none",
+    "bb-aos": "none",
+    "soustitre-aos": "none",
+    "gallery-aos": "none",
+    "faq-aos": "none",
+    "css-space": "\/* Ajoutez du css ici *\/",
+    "upsell-active": false,
+    "selectedproduct": "montre-sport",
+    "upsell-backbround-color": "#ffffff",
+    "upsell-title-color": "#050505",
+    "upsell-price-color": "#000000",
+    "add-to-cart-txt-upsell": "Ajouter au panier",
+    "variantes-hb": 6,
+    "variantes-dg": 0,
+    "standard-variant-fullsize": false,
+    "standard-variant-border": 2,
+    "standard-variant-border-radius": 75,
+    "standard-variant-selected-border-radius": 72,
+    "standard-variant-selected-text": "#000000",
+    "standard-variant-border-color": "#000000",
+    "standard-variant-selected-border-color": "#3faab5",
+    "color-swatch-featured": true,
+    "swatchlabel": false,
+    "swatch-border": 3,
+    "swatch-border-hover": 3,
+    "swatch-border-color": "#000000",
+    "swatch-border-color-hover": "#000000",
+    "swatch-border-color-selected": "#3faab5",
+    "bundle": false,
+    "bundle-img-radius": false,
+    "bundle-flash": false,
+    "bundle-percent": false,
+    "bundle-flash-color": "#000000",
+    "quantity-full": true,
+    "quantity-radius": true,
+    "atc": true,
+    "sticky-pos": "bottom",
+    "sticky-pos-mobile": "bottom",
+    "margin-top-desktop": 150,
+    "margin-top-mobile": 110,
+    "margin-top-page-product-desktop": 150,
+    "margin-top-page-product-mobile": 0,
+    "title1-mt": 60,
+    "title1-mb": 60,
+    "title2-spacing": 0,
+    "title2-mt": 68,
+    "title2-mb": 60,
+    "amazing": false,
+    "product-mi": false,
+    "product-imgtxt": false,
+    "product-imgtxtg": false,
+    "product-faq": false,
+    "custom-html-prod": false,
+    "product-reco": false,
+    "product-avis": false,
+    "product-avis-slider": false,
+    "product-rea": true,
+    "custom-product": false,
+    "custom-imgtxt": false,
+    "custom-faq": true,
+    "custom-reco": false,
+    "custom-avis": false,
+    "custom-rea": false,
+    "cart_type": "drawer",
+    "reserved": true,
+    "cart-radius": false,
+    "drawer-radius": true,
+    "logo-payment": "shopify:\/\/shop_images\/payment_icon_collection_222.png",
+    "cart-icon-text": "<b> DARMOWA ekspresowa wysyłka<\/b>",
+    "text-before-timer": "Twój koszyk jest zarezerwowany podczas",
+    "text-after-timer": "",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_drawer_border": "#393939",
+    "color_drawer_button": "#312593",
+    "drawer-color-cart-icon": "#312593",
+    "enable-right-clic": true,
+    "enable-text-selection": true,
+    "enable-image-drag": true,
+    "newsactive": false,
+    "newstime": 7,
+    "cooks": false,
+    "cookstxt": "Ta strona używa plików cookie, aby zapewnić Ci jak najlepsze wrażenia z korzystania z naszej strony.",
+    "cookstxt-agree": "Akceptuję",
+    "cookstxt-refuse": "Odpadki",
+    "show_order_notification": false,
+    "show_order_notification-mobile": false,
+    "livenotificationtime": 5,
+    "fomo_collection": "montre",
+    "bordercolor-popup": "#000000",
+    "color-article": "#000000",
+    "show-loader": false,
+    "loader-svg": "<svg version='1.1' id='L9' xmlns='http:\/\/www.w3.org\/2000\/svg' xmlns:xlink='http:\/\/www.w3.org\/1999\/xlink' x='0px' y='0px' viewBox='0 0 100 100' enable-background='new 0 0 0 0' xml:space='preserve'> <rect x='20' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0' dur='0.6s' repeatCount='indefinite' \/> <\/rect> <rect x='30' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0.2s' dur='0.6s' repeatCount='indefinite' \/> <\/rect> <rect x='40' y='50' width='4' height='10' fill='#fff'> <animateTransform attributeType='xml' attributeName='transform' type='translate' values='0 0; 0 20; 0 0' begin='0.4s' dur='0.6s' repeatCount='indefinite' \/> <\/rect><\/svg>",
+    "loading-time": 4,
+    "checkout_logo_image": "shopify:\/\/shop_images\/VF.png",
+    "checkout_logo_position": "center",
+    "checkout_accent_color": "#312593",
+    "checkout_button_color": "#312593",
+    "checkout_error_color": "#ff5c5b",
+    "enable-keyboard": false,
+    "type_header_base_size": "32px",
+    "type_header_border_thickness": "3px",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "122a9053-9416-478f-8182-a98b6d1946bb": {
+            "type": "select",
+            "settings": {
+              "content": "DARMOWA wysyłka",
+              "icon": "truck"
+            }
+          },
+          "bfc8e4de-e81c-4e1d-8045-08283be9a5aa": {
+            "type": "select",
+            "settings": {
+              "content": "30 dni zadowolenie lub zwrot pieniędzy",
+              "icon": "box-open"
+            }
+          },
+          "d4bad9e0-b8fa-4c89-9dd6-d9d218a20215": {
+            "type": "select",
+            "settings": {
+              "content": "+170.000 usatysfakcjonowanych klientów",
+              "icon": "user"
+            }
+          },
+          "92764661-8ae7-4201-a0ca-5ff3c12c944d": {
+            "type": "select",
+            "settings": {
+              "content": "Wyłączność w sieci Sablea™",
+              "icon": "search"
+            }
+          },
+          "0e0dd285-f702-4912-9d46-5abf3aed3303": {
+            "type": "select",
+            "settings": {
+              "content": "100% bezpieczna płatność",
+              "icon": "lock"
+            }
+          }
+        },
+        "block_order": [
+          "122a9053-9416-478f-8182-a98b6d1946bb",
+          "bfc8e4de-e81c-4e1d-8045-08283be9a5aa",
+          "d4bad9e0-b8fa-4c89-9dd6-d9d218a20215",
+          "92764661-8ae7-4201-a0ca-5ff3c12c944d",
+          "0e0dd285-f702-4912-9d46-5abf3aed3303"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/VF_0319254e-d01d-44e4-989c-53248d7c1a34.png",
+          "logo_max_width": 215,
+          "background-gradients1": "#ffffff",
+          "background-gradients2": "#ffffff",
+          "gradients-side": "to right",
+          "header_color": "#000000",
+          "transparent_header_enable": false,
+          "sticky-head": "partout",
+          "transparent_header_color": "#000000",
+          "search": "modal",
+          "main_menu_link_list": "main-menu",
+          "drawer_bottom_link_list": "strony-prawne-i-kontakt",
+          "drawer_search_enable": false,
+          "fa-icon": "shopping-bag",
+          "show_announcement": true,
+          "home_page_only": false,
+          "annonce": "amazing",
+          "texte-gras": "INCROYABLE :",
+          "text": "Annoncer quelque chose ici",
+          "background-gradientss1": "#000000",
+          "background-gradientss2": "#000000",
+          "gradientss-side": "to right",
+          "color_text": "#ffffff",
+          "speed": 16,
+          "gauche": false,
+          "maintext": "🎉 OFERTA SPECJALNA Z OKAZJI WALENTYNEK 🎉",
+          "nonestatic": true,
+          "flash": true,
+          "temps": 1,
+          "background-gradient1": "#000000",
+          "background-gradient2": "#000000",
+          "gradient-side": "to right",
+          "color-stat": "#ffffff",
+          "color-dyna": "#ffffff"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_payment_icons": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "footer_link_list": "main-menu",
+          "footer_link_list-two": "strony-prawne-i-kontakt",
+          "custom-text": false,
+          "custom-text-title": "Nous Contacter",
+          "custom-text-content": "<p>contact@johndoe.fr<br\/>344 rue de Paris<br\/>75 018, France<\/p>",
+          "newsletter": false,
+          "newstitre": "Rejoignez notre newsletter !",
+          "newsletter-content": "<p>Abonnez-vous pour recevoir toutes nos nouveautés !<\/p>",
+          "left-mob": true,
+          "footer-title-color": true,
+          "background-gradient1": "#1a1350",
+          "background-gradient2": "#1a1350",
+          "gradient-side": "to right",
+          "title-color": "#ffffff",
+          "text-color": "#ffffff",
+          "text-color-hover": "#d8d8d8",
+          "phb": 25
+        }
+      },
+      "product-main-image": {
+        "type": "product-main-image",
+        "blocks": {
+          "80a73d15-c7f9-4f59-be7a-6fd699a48502": {
+            "type": "slide",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "image": "shopify:\/\/shop_images\/Sans_titre-3.jpg",
+              "image_position": "center center",
+              "image_overlay": true,
+              "image_overlay_opacity": 25,
+              "text_alignment": "center",
+              "slide_heading": "Bannière de premier plan",
+              "slide_subheading": "Introduction",
+              "button_label": "Acheter maintenant",
+              "slide_text_color": "#ffffff",
+              "slide_button_label_color": "#ffffff",
+              "slide_button_background_color": "#1f2021"
+            }
+          }
+        },
+        "block_order": [
+          "80a73d15-c7f9-4f59-be7a-6fd699a48502"
+        ],
+        "settings": {
+          "home_hero_height": "adapt",
+          "hero_home_auto": false,
+          "home_hero_auto_speed": 5,
+          "on-image": true,
+          "top-content": 8,
+          "title-size": 28,
+          "title-color": "#ffffff",
+          "subtitle-color": "#ffffff"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "0784eed6-075f-4f5e-bb0a-51ef398bc5d0": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "sablier-magique",
+              "startop": 4.5,
+              "startop-names": "3176 Opinie"
+            }
+          },
+          "da14c272-c4a2-4a6b-b4ec-e4d04fb8279e": {
+            "type": "accordion",
+            "settings": {
+              "title": "Section",
+              "text": "<p>Écrivez tout ce qui vous semble cohérent.<\/p>",
+              "accordion-icon": "angle-right",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          }
+        },
+        "block_order": [
+          "0784eed6-075f-4f5e-bb0a-51ef398bc5d0",
+          "da14c272-c4a2-4a6b-b4ec-e4d04fb8279e"
+        ],
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "grid-image-size": "seven",
+          "align-title": "left",
+          "show-description": "bottom",
+          "product_vendor_enable": false,
+          "social_sharing_products": false,
+          "taxes": false,
+          "enable_payment_button": false,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": false,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 25,
+          "price-size-sale": 20,
+          "price-size-bar": 16,
+          "price-color": "#036600",
+          "price-color-sale": "#036600",
+          "price-color-barre": "#838383",
+          "barre-gras": true,
+          "hb-percent": 3,
+          "percent-economy": false,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Dodaj do koszyka",
+          "height-atc": 60,
+          "size-police": 16,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "plus",
+          "cta-animation": "rotater",
+          "anim-time": 6,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "Vous pourriez aimer également"
+        }
+      },
+      "reassurance": {
+        "type": "reassurance",
+        "blocks": {
+          "98489975-3316-4678-b13f-6116548a9404": {
+            "type": "select",
+            "settings": {
+              "title": "Dostawa w ciągu 48 godzin",
+              "content": "",
+              "icon": "shipping-fast",
+              "image-width": 50
+            }
+          },
+          "c9358908-125c-47c3-99cf-c91aa5b7f96f": {
+            "type": "select",
+            "settings": {
+              "title": "100% bezpieczna płatność",
+              "content": "",
+              "icon": "lock",
+              "image-width": 50
+            }
+          },
+          "b0bd7b76-76da-42c7-a3e2-7f08afe21293": {
+            "type": "select",
+            "settings": {
+              "title": "Wsparcie jakościowe",
+              "content": "",
+              "icon": "phone",
+              "image-width": 50
+            }
+          },
+          "289869c5-b371-44f9-9af9-73c9982f3b96": {
+            "type": "select",
+            "settings": {
+              "title": "Satysfakcja gwarantowana",
+              "content": "",
+              "icon": "smile",
+              "image-width": 50
+            }
+          }
+        },
+        "block_order": [
+          "98489975-3316-4678-b13f-6116548a9404",
+          "c9358908-125c-47c3-99cf-c91aa5b7f96f",
+          "b0bd7b76-76da-42c7-a3e2-7f08afe21293",
+          "289869c5-b371-44f9-9af9-73c9982f3b96"
+        ],
+        "settings": {
+          "two": false,
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "dg-d": 0,
+          "cart-align": "center",
+          "icon-color": "#312593",
+          "textassurance-color": "#000000"
+        }
+      },
+      "1604759152b76a67a7": {
+        "type": "slideshow",
+        "blocks": {
+          "1604759152b76a67a7-0": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banniere-Sablea1_62223b1d-320f-4a8f-b903-a69728a9c3fa.png",
+              "image_position": "center center",
+              "image_overlay": true,
+              "image_overlay_opacity": 45,
+              "text_alignment": "center",
+              "slide_subheading": "Odkryj",
+              "slide_heading": "Magiczna Klepsydra Sablea™",
+              "subtitle": "Ręcznie wykonane, nasze magiczne klepsydry cieszą naszych <br> +170.000 klientów już od dziesięcioleci!\n<br><br>",
+              "button_label": "Więcej",
+              "button_link": "shopify:\/\/products\/sablier-magique",
+              "slide_text_color": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1604759152b76a67a7-0"
+        ],
+        "settings": {
+          "home_hero_height": "full",
+          "hero_home_auto": false,
+          "home_hero_auto_speed": 5,
+          "on-image": true,
+          "top-content": 7,
+          "title-size": 20,
+          "title-color": "#ffffff",
+          "subtitle-color": "#ffffff"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "a198d700-c4fb-4657-8068-f4a279d0c514": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "a198d700-c4fb-4657-8068-f4a279d0c514"
+        ],
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_collection_image": false,
+          "collection_sort_enable": false,
+          "collection_tags_enable": false,
+          "collection_products_grid": "grid",
+          "align-content": "center",
+          "product_vendor_enable": false,
+          "enable-second-img": true,
+          "display-radius": false,
+          "display-sale": false,
+          "display-color": false,
+          "two": true,
+          "enable-startop": true,
+          "enable-button": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 5,
+          "startop-color": "#ffe325"
+        }
+      },
+      "avis-product": {
+        "type": "avis-product",
+        "blocks": {
+          "435bc64e-9137-4f14-b19f-bfa384501432": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "name": "John Doe",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          },
+          "3462c983-58da-4e30-90bf-cdbb2b53e945": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-bg-du-74",
+              "name": "TOTO",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          },
+          "5d7d50f9-442d-44f2-b04c-7e7c2b34b83c": {
+            "type": "block-1",
+            "settings": {
+              "product_trigger": "copie-de-montre-a-quartz",
+              "name": "John Doe",
+              "validate-it": true,
+              "enable-img": true,
+              "avis": "<p>Veuillez insérer ici le contenu de l&#x27;avis<\/p>",
+              "star": 4,
+              "date": "31\/12\/2020"
+            }
+          }
+        },
+        "block_order": [
+          "435bc64e-9137-4f14-b19f-bfa384501432",
+          "3462c983-58da-4e30-90bf-cdbb2b53e945",
+          "5d7d50f9-442d-44f2-b04c-7e7c2b34b83c"
+        ],
+        "settings": {
+          "title": "Reviews",
+          "subtitle": "fghdedfghdfhdfh",
+          "background-color": "#ffffff",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#ff0000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "border-size": 0,
+          "carte-radius": 3,
+          "carte-padding-main": 15,
+          "carte-padding-img": 0,
+          "cart-shadow-size": 15,
+          "background-carte": "#ffffff",
+          "color-carte": "#000000",
+          "border-color": "#000000",
+          "cart-shadow-color": "#d4d4d4",
+          "arrow-color": "#ffffff",
+          "arrow-color-hover": "#000000",
+          "validate-color": "#1a86e5",
+          "etoile-color": "#ffe325",
+          "enable-name": true,
+          "enable-date": true,
+          "enable-stars": true,
+          "enable-avis": true,
+          "content-align": "left",
+          "name-size": "4",
+          "namemb": 0,
+          "namemt": 0,
+          "datemt": 6,
+          "etoile-size": 19,
+          "margin-star": 9,
+          "txtm": 2
+        }
+      },
+      "reviews-slider-product": {
+        "type": "reviews-slider-product",
+        "blocks": {
+          "0e143319-6d08-47ff-9aa1-4df97a21f146": {
+            "type": "text",
+            "settings": {
+              "product": "copie-de-montre-a-quartz",
+              "name": "par John D.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>&#x27;&#x27;Écrivez le contenu de la review et tout ce qui vous semble cohérent.&#x27;&#x27;<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "0e143319-6d08-47ff-9aa1-4df97a21f146"
+        ],
+        "settings": {
+          "title": "Reviews Slider",
+          "subtitle": "zagfzgfdfgsdfgdsfg",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#ef4f4f",
+          "arrow-color": "#000000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "img-radius": 7,
+          "star-size": 14,
+          "star-color": "#ffe325",
+          "validate-color": "#1a86e5",
+          "content-color": "#000000"
+        }
+      },
+      "image-and-text": {
+        "type": "image-and-text",
+        "blocks": {
+          "c8f781c7-da30-4dad-acfd-bd809c89433b": {
+            "type": "img",
+            "settings": {
+              "product_trigger": "copie-de-montre-bg-du-73",
+              "layout": "right",
+              "title": "Image avec texte",
+              "text": "<p>Associez un texte de grande taille à une image pour mettre en relief le produit, la collection ou l&#x27;article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "c8f781c7-da30-4dad-acfd-bd809c89433b"
+        ],
+        "settings": {
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "radius": false,
+          "title-tag": "2",
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "featured-row": {
+        "type": "featured-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/photo-1507428861205-e8aab693190e.jpg",
+          "radius": false,
+          "marg": true,
+          "layout": "left",
+          "title": "Image avec texte",
+          "text": "<p>Associez un texte de grande taille à une image pour mettre en relief le produit, la collection ou l&#x27;article de blog de votre choix. Ajoutez des informations sur la disponibilité ou le style. Vous pouvez même fournir un avis.<\/p>",
+          "button_label": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "title-tag": "2",
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "content": "#000000"
+        }
+      },
+      "16047821078f1ea1d1": {
+        "type": "reassurance",
+        "blocks": {
+          "16047821078f1ea1d1-2": {
+            "type": "select",
+            "settings": {
+              "title": "Dostawa w ciągu 48 godzin",
+              "content": "",
+              "icon": "shipping-fast",
+              "image-width": 50
+            }
+          },
+          "16047821078f1ea1d1-0": {
+            "type": "select",
+            "settings": {
+              "title": "100% bezpieczna płatność",
+              "content": "",
+              "icon": "lock",
+              "image-width": 50
+            }
+          },
+          "16047821078f1ea1d1-3": {
+            "type": "select",
+            "settings": {
+              "title": "Wsparcie jakościowe",
+              "content": "",
+              "icon": "phone",
+              "image-width": 64
+            }
+          },
+          "16047821078f1ea1d1-1": {
+            "type": "select",
+            "settings": {
+              "title": "Satysfakcja gwarantowana",
+              "content": "",
+              "icon": "smile",
+              "image-width": 50
+            }
+          }
+        },
+        "block_order": [
+          "16047821078f1ea1d1-2",
+          "16047821078f1ea1d1-0",
+          "16047821078f1ea1d1-3",
+          "16047821078f1ea1d1-1"
+        ],
+        "settings": {
+          "two": true,
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "dg-d": 0,
+          "cart-align": "center",
+          "icon-color": "#312593",
+          "textassurance-color": "#000000"
+        }
+      },
+      "amazing-annonce": {
+        "type": "amazing-annonce",
+        "blocks": {
+          "fdaa8f26-518a-4314-9269-4f56e868c907": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "0f872a8d-a1c0-4dc9-895f-3ddb8abca2bc": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "4f01865e-6878-4e83-a481-c6fed7b3a4fc": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          },
+          "761ea943-391d-43fe-ad93-3511add5e71e": {
+            "type": "select",
+            "settings": {
+              "content": "Livraison OFFERTE",
+              "icon": "truck"
+            }
+          }
+        },
+        "block_order": [
+          "fdaa8f26-518a-4314-9269-4f56e868c907",
+          "0f872a8d-a1c0-4dc9-895f-3ddb8abca2bc",
+          "4f01865e-6878-4e83-a481-c6fed7b3a4fc",
+          "761ea943-391d-43fe-ad93-3511add5e71e"
+        ],
+        "settings": {
+          "maintext": "Offre unique : -50%",
+          "nonestatic": true,
+          "flash": true,
+          "temps": 1,
+          "background-gradient1": "#808080",
+          "background-gradient2": "#000000",
+          "gradient-side": "to right",
+          "color-stat": "#ffffff",
+          "color-dyna": "#ffffff"
+        }
+      },
+      "faq": {
+        "type": "faq",
+        "blocks": {
+          "2b2adc22-cdc8-4373-b936-b3bea898ad2b": {
+            "type": "select",
+            "settings": {
+              "question": "Jak śledzić moją paczkę?",
+              "reponse": "<p>Możesz śledzić przesyłkę, używając numeru zamówienia i adresu e-mail zamówienia na stronie śledzenia zamówienia.<\/p>"
+            }
+          },
+          "333a7c58-e61d-4ddf-b85d-028ab4d14528": {
+            "type": "select",
+            "settings": {
+              "question": "Jak długo trwa dostawa?",
+              "reponse": "<p>Czas dostawy wynosi około 2 do 8 dni roboczych w przypadku dostawy bezpłatnej. Ze względu na pandemię Covid-19 nasze firmy transportowe musiały się dostosować, aby zapewnić Państwu bezpieczeństwo. Zapewniamy, że dostawa do domu zostanie zrealizowana w zwyczajowym terminie.<\/p>"
+            }
+          },
+          "b7a5d5ac-86db-4ef0-9614-babffa22198b": {
+            "type": "select",
+            "settings": {
+              "question": "Czy dostawa jest bezpłatna?",
+              "reponse": "<p>Dostawa jest bezpłatna dla wszystkich zamówień przez ograniczony czas.<\/p>"
+            }
+          },
+          "1aa34a60-7932-4d90-93e8-ab3abc5d9e46": {
+            "type": "select",
+            "settings": {
+              "question": "Jakie metody płatności są dostępne?",
+              "reponse": "<p>Akceptujemy wszystkie główne karty kredytowe (VISA, Mastercard, AMEX). Nie przyjmujemy jednak czeków, przekazów pieniężnych ani przelewów bankowych.<\/p>"
+            }
+          },
+          "4e16298e-55e7-4260-8a91-963f3ca22e3f": {
+            "type": "select",
+            "settings": {
+              "question": "Jak mogę zażądać zwrotu?",
+              "reponse": "<p>Dla wszelkich żądań zwrotu, prosimy o kontakt z nami na naszej pomocy technicznej. Jeśli chcesz uzyskać więcej informacji na temat zwrotów, zapoznaj się z naszą Polityką Zwrotów. <\/p><p><\/p>"
+            }
+          },
+          "5990a4c4-97aa-408b-9cea-ab781573e5f4": {
+            "type": "select",
+            "settings": {
+              "question": "Czy koszty zwrotu są pokrywane?",
+              "reponse": "<p>Wszystkie koszty zwrotu ponosi klient.<\/p>"
+            }
+          },
+          "f21c31a4-361d-4fef-ac79-b9199cf3d944": {
+            "type": "select",
+            "settings": {
+              "question": "czy wysyłacie również za granicę?",
+              "reponse": "<p>Absolutnie, wysyłamy na cały świat z możliwością śledzenia paczki.<\/p>"
+            }
+          },
+          "f268cec3-a39f-4406-a1d0-f9f98e1935e1": {
+            "type": "select",
+            "settings": {
+              "question": "jak złożyć zamówienie?",
+              "reponse": "<p>po prostu wybierz swoje przedmioty i kliknij na przycisk &quot;dodaj do koszyka&quot;, zacznij ponownie dla każdego przedmiotu, a następnie przejdź do koszyka i postępuj zgodnie z krokami, aby zakończyć zamówienie aż do płatności. przygotujemy go i wyślemy Ci e-mail z potwierdzeniem zamówienia.<\/p>"
+            }
+          },
+          "6cc36893-8768-4d19-adcd-40a321092874": {
+            "type": "select",
+            "settings": {
+              "question": "czy płatność jest bezpieczna?",
+              "reponse": "<p>absolutnie, nasz sklep jest całkowicie bezpieczny, posiadamy system szyfrowania ssl, aby chronić twoje osobiste i poufne dane. korzystamy z bezpiecznych systemów płatności stripe i paypal.<\/p>"
+            }
+          },
+          "d0bb978d-eb27-42f3-a716-e2a085310d9c": {
+            "type": "select",
+            "settings": {
+              "question": "nadal nie otrzymałem mojego zamówienia, co mogę zrobić?",
+              "reponse": "<p>czy otrzymałeś potwierdzenie wysyłki swojego zamówienia? jeśli Twoje zamówienie zostało wysłane ponad 5 tygodni temu, skontaktuj się z nami podając numer zamówienia, a my rozpoczniemy dochodzenie i skontaktujemy się z Tobą w ciągu 48 godzin.<\/p>"
+            }
+          },
+          "ed8646ea-1221-4f00-8589-418b86baec15": {
+            "type": "select",
+            "settings": {
+              "question": "zamówiłem kilka pozycji i otrzymałem tylko część zamówienia, czy to normalne?",
+              "reponse": "<p>tak, to całkowicie normalne. aby maksymalnie skrócić czas oczekiwania, wszystkie przedmioty wysyłamy osobno, gdy tylko są gotowe do wysyłki. reszta zamówienia powinna dotrzeć w ciągu kilku najbliższych dni.<\/p>"
+            }
+          },
+          "6be4f3b1-a22c-4d33-b7fc-e04d2a275f53": {
+            "type": "select",
+            "settings": {
+              "question": "otrzymałem uszkodzony\/wadliwy produkt, co powinienem zrobić?",
+              "reponse": "<p>prosimy o kontakt z nami, wyjaśniając problem i załączając zdjęcie jako dowód, zrobimy co w naszej mocy, aby znaleźć rozwiązanie.<\/p>"
+            }
+          },
+          "60c1ed7c-5ba5-436b-8dc6-4df2cd889465": {
+            "type": "select",
+            "settings": {
+              "question": "nie jestem zadowolony z mojego zamówienia, czy mogę otrzymać zwrot pieniędzy?",
+              "reponse": "<p>bezwzględnie, masz 14 dni od daty otrzymania zamówienia na zwrot każdego produktu, z którego nie jesteś w pełni zadowolony. <\/p><p>Należy wydrukować formularz odstąpienia od umowy, wysłać go do nas e-mailem i odesłać towar na wskazany adres (numer zwrotu otrzymasz przed odesłaniem towaru).<\/p><p>zwrot następuje wyłącznie drogą pocztową na nasz adres, a koszty zwrotu pozostają na Twój koszt, o czym poinformujemy Cię e-mailem w odpowiedzi na Twoje zapytanie. po otrzymaniu zamówienia otrzymasz pełny zwrot pieniędzy.<\/p><p>aby uzyskać więcej informacji, zapraszamy do zapoznania się ze zwrotami na stronie.<\/p><p><\/p><p>Przetłumaczono z www.DeepL.com\/Translator (wersja darmowa)<\/p>"
+            }
+          },
+          "6cd63da9-96eb-4ce2-8667-48cd640c67a4": {
+            "type": "select",
+            "settings": {
+              "question": "w jakich przypadkach nie mogę otrzymać zwrotu kosztów?",
+              "reponse": "<p>jeśli produkt był używany i dlatego nie nadaje się do odsprzedaży w stanie niezmienionym.<\/p><p>jeżeli przesyłka nie dotarła do miejsca przeznaczenia z powodu błędu w adresie dostawy podanym w momencie składania zamówienia.<\/p><p>jeśli proces zwrotu nie jest przestrzegany.<\/p><p>więcej informacji można znaleźć na stronie poświęconej zwrotom.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "2b2adc22-cdc8-4373-b936-b3bea898ad2b",
+          "333a7c58-e61d-4ddf-b85d-028ab4d14528",
+          "b7a5d5ac-86db-4ef0-9614-babffa22198b",
+          "1aa34a60-7932-4d90-93e8-ab3abc5d9e46",
+          "4e16298e-55e7-4260-8a91-963f3ca22e3f",
+          "5990a4c4-97aa-408b-9cea-ab781573e5f4",
+          "f21c31a4-361d-4fef-ac79-b9199cf3d944",
+          "f268cec3-a39f-4406-a1d0-f9f98e1935e1",
+          "6cc36893-8768-4d19-adcd-40a321092874",
+          "d0bb978d-eb27-42f3-a716-e2a085310d9c",
+          "ed8646ea-1221-4f00-8589-418b86baec15",
+          "6be4f3b1-a22c-4d33-b7fc-e04d2a275f53",
+          "60c1ed7c-5ba5-436b-8dc6-4df2cd889465",
+          "6cd63da9-96eb-4ce2-8667-48cd640c67a4"
+        ],
+        "settings": {
+          "title": "",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 50,
+          "first-elem-faq": false,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "answer-border-padding-left": 25,
+          "border-collapsed-size": 1,
+          "answer-border-width": 1,
+          "answer-border-type": "dashed",
+          "border-collapsed-color": "rgba(0,0,0,0)",
+          "title-color": "#000000",
+          "clic-title-color": "#000000",
+          "accordion-color": "#ffffff",
+          "clic-color": "#ffffff",
+          "text-color": "#000000",
+          "background-color-question-hover": "#ffffff",
+          "color-question-text-hover": "#000000"
+        }
+      },
+      "1605364128eb3607ed": {
+        "type": "reviews-slider",
+        "blocks": {
+          "1605364128eb3607ed-0": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1.jpg",
+              "deletimage": false,
+              "name": "za Leona Q.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>To wspaniale. Jeszcze ładniejsza na żywo niż na zdjęciach !<\/p>"
+            }
+          },
+          "1605364128eb3607ed-1": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "deletimage": false,
+              "name": "za Marcina S.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Doskonale. Bardzo przydatny, aby pomóc mi się skoncentrować, kiedy muszę pracować.<\/p>"
+            }
+          },
+          "1605364128eb3607ed-2": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3.jpg",
+              "deletimage": false,
+              "name": "za Nina D.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>Odkąd ten przedmiot przybył, spędziłem minimum 10 godzin w ciągu ostatnich 72 godzin po prostu oglądając piasek i relaksując się. PRZECZYTAJ INSTRUKCJE - Myślę, że to wspaniałe, że twórca kazał ci zrozumieć, na czym polega nauka i samemu dodać powietrze.<\/p>"
+            }
+          },
+          "1605364128eb3607ed-3": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/16088997971cb67fc7179834afb0bc0628ec11972a.jpg",
+              "deletimage": false,
+              "name": "za Kamil F.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Bardzo mi się podoba! Trochę przerażające wydając tyle na piasku sztuki.... warto. Nie trzeba było regulować powietrza po przyjeździe, bo piasek wpada idealnie. Dziwnie hipnotyzujące oglądanie piasku spadającego przez bąbelki. Jeśli ten produkt będzie trwał kilka lat to warto. <\/p>"
+            }
+          },
+          "1605364128eb3607ed-4": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/5.jpg",
+              "deletimage": false,
+              "name": "za Hanna G.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p> Uwielbiam go! Kupiłem go jako prezent dla przyjaciela... Muszę go mieć! Właśnie zamówiłem jeden dla siebie. Nie mogę się doczekać. Mam nadzieję, że nie ma problemu z zamrażaniem.<\/p>"
+            }
+          },
+          "1605364128eb3607ed-5": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/6.jpg",
+              "deletimage": false,
+              "name": "za Ania H.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Po raz pierwszy zobaczyłem to 8 miesięcy temu, kiedy byłem jeszcze w szkole i nie miałem żadnych dochodów, ale dużo cudów. W końcu kupiłam to dla siebie i nadal jestem zakochana! To jest tak kojące i piękne. Idealny dodatek do mojej przestrzeni, która jest interaktywna, zmienna, a jednak stała. <\/p>"
+            }
+          },
+          "1605364128eb3607ed-6": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/7.jpg",
+              "deletimage": false,
+              "name": "za Igor J.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Bardzo zadowolony z zakupu. Kupiony jako prezent i siedzi na biurku chłopaka. Pracuje w domu i widziałem jak przewracał ją co najmniej raz dziennie podczas pracy przy komputerze. Przyszedł w idealnym stanie i nie trzeba było robić nic więcej, aby wyniki wyglądały tak jak na zdjęciach. <\/p>"
+            }
+          },
+          "30245fe0-b5e2-442e-bbd7-c2b29a120ca6": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/8.jpg",
+              "deletimage": false,
+              "name": "za Marta K.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Absolutnie piękne wzory w tej ramie. Okrągła rama dodaje nowy wymiar do tej sztuki. Bardzo spokojna, zwłaszcza jeśli dodasz wystarczająco dużo powietrza, możesz sprawić, że piasek będzie spadał przez bardzo długi czas, dając godziny spokojnego oglądania. <\/p>"
+            }
+          },
+          "55332e57-9198-4dec-8aa6-c688df8c60ab": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/9.jpg",
+              "deletimage": false,
+              "name": "za Rosa L.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>Kupiłem to jako prezent dla mojego męża, który jest malarzem abstrakcyjnym i on absolutnie to uwielbia. Opracował kilka technik poruszania się i potrząsania lekko w sposób umożliwiający tworzenie różnego rodzaju efektów, takich jak linia pęcherzyków, które tworzą blokadę, która utrzymuje piasek znacznie dłużej. Uważa, że jest to bardzo kojące, medytacyjne i inspirujące dla jego własnej sztuki. <\/p>"
+            }
+          },
+          "64769e77-031c-4c28-b569-dda5fad85534": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/10.jpg",
+              "deletimage": false,
+              "name": "za Kendra M.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>To był świetny prezent dla mojego szefa. Nie byłam pewna, czy mu się spodoba, czy pomyśli, że jest bezużyteczny, ale tworzy piękne piaskowe obrazy i naprawdę relaksujące jest obserwowanie, jak piasek spada. To było trochę mylące, aby uzyskać stosunek powietrza do wody w prawo, aby uzyskać piasek do tworzenia pięknych wzorów, ale po kilku próbach było idealnie! Zdecydowanie świetny prezent! <\/p>"
+            }
+          },
+          "90dd5a51-abe1-47d6-8cf7-6d94077f514e": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/11.jpg",
+              "deletimage": false,
+              "name": "za Karol W.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Jest to wspaniałe i interaktywne dzieło sztuki. Kiedy nie jest tutaj ng odtwarzane w celu stworzenia nowego i ekscytującego obrazu, wygląda pięknie siedząc na naszej półce. <\/p>"
+            }
+          },
+          "b18d2142-b463-449e-bde7-7f01bf9a3162": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/12.jpg",
+              "deletimage": false,
+              "name": "za Szymon C.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Bardzo miły prezent. Osoba obdarowana bardzo go polubiła. Wymaga on jednak konserwacji. Trzeba usunąć dodatkowe powietrze, aby regulować szybkość przesuwania się piasku, może też być konieczne dolanie wody. Konserwacja jest łatwa do wykonania. <\/p>"
+            }
+          },
+          "beae7262-8fb5-40ea-814d-0c788099acfd": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/13.jpg",
+              "deletimage": false,
+              "name": "za Kacper V.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Wahałem się, czy wydać pieniądze na coś, co było tylko przedmiotem dekoracyjnym na moim biurku, ale to przerosło moje oczekiwania. Działa doskonale i jest naprawdę piękny. Dostosowałem trochę ilość powietrza, ale instrukcje jak to zrobić były łatwe do naśladowania. Mogłabym patrzeć na to cały dzień - piaskowe krajobrazy, które tworzy są oszałamiające! <\/p>"
+            }
+          },
+          "05954aa7-7b42-40e9-bb16-95713e9d89a3": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/14.jpg",
+              "deletimage": false,
+              "name": "za Lidia B.",
+              "validate-it": true,
+              "star": 4.5,
+              "content": "<p>To był prezent gwiazdkowy dla mojej zorientowanej w sztuce 15-letniej córki i jest fascynujący do oglądania. Musieliśmy dostosować ilość powietrza trochę z dołączoną strzykawką, ale to było łatwe do zrobienia. Spełnia moje oczekiwania i sprawia, że bardzo wyjątkowy prezent. <\/p>"
+            }
+          },
+          "b1eff4d8-0bd7-4389-8309-a59d1dbced35": {
+            "type": "select",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/15.jpg",
+              "deletimage": false,
+              "name": "za Wiktor N.",
+              "validate-it": true,
+              "star": 5,
+              "content": "<p>Pracuję w środowisku o szybkim tempie, co może łatwo prowadzić do stresu\/niepokoju. Jest to moja ulubiona metoda na uspokojenie się. Jest to również świetny element do rozmowy. Ostrzeżenie: wszyscy chcą się nim bawić. <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1605364128eb3607ed-0",
+          "1605364128eb3607ed-1",
+          "1605364128eb3607ed-2",
+          "1605364128eb3607ed-3",
+          "1605364128eb3607ed-4",
+          "1605364128eb3607ed-5",
+          "1605364128eb3607ed-6",
+          "30245fe0-b5e2-442e-bbd7-c2b29a120ca6",
+          "55332e57-9198-4dec-8aa6-c688df8c60ab",
+          "64769e77-031c-4c28-b569-dda5fad85534",
+          "90dd5a51-abe1-47d6-8cf7-6d94077f514e",
+          "b18d2142-b463-449e-bde7-7f01bf9a3162",
+          "beae7262-8fb5-40ea-814d-0c788099acfd",
+          "05954aa7-7b42-40e9-bb16-95713e9d89a3",
+          "b1eff4d8-0bd7-4389-8309-a59d1dbced35"
+        ],
+        "settings": {
+          "title": "Opinie klientów",
+          "subtitle": "(3178)",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon": "shopify:\/\/shop_images\/ezgif-2-ebab00bc3c0d.gif",
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "arrow-color": "#000000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "img-radius": 7,
+          "star-size": 14,
+          "star-color": "#ffe325",
+          "validate-color": "#312593",
+          "content-color": "#000000"
+        }
+      },
+      "product-template-dropdown": {
+        "type": "product-template-dropdown",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-bundle": {
+        "type": "product-template-bundle",
+        "blocks": {
+          "05a8b363-a2e4-4303-be2c-ba001798eda4": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "copie-de-montre-a-quartz",
+              "startop": 3.5,
+              "startop-names": "3176 Avis"
+            }
+          },
+          "3cbbf3b2-f1a1-472e-93e4-7953066d1064": {
+            "type": "accordion",
+            "settings": {
+              "title": "plop",
+              "text": "<p>Écrivez tout ce qui vous semble cohérent.<\/p>",
+              "accordion-icon": "angle-double-right",
+              "accordion-color": "#1f2021",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "1212da97-2b0a-4578-9447-0049cfb29fbc": {
+            "type": "accordion",
+            "settings": {
+              "title": "fgdghdfgdfgdfg",
+              "text": "<p>Écrivez tout ce qui vous semble cohérent.<\/p>",
+              "accordion-icon": "angle-double-right",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "92b6d18c-40ba-4873-9828-eabd613298b4": {
+            "type": "etoile",
+            "settings": {
+              "product_trigger_etoile": "copie-de-montre-femme",
+              "startop": 4.5,
+              "startop-names": "3176 Avis"
+            }
+          }
+        },
+        "block_order": [
+          "05a8b363-a2e4-4303-be2c-ba001798eda4",
+          "3cbbf3b2-f1a1-472e-93e4-7953066d1064",
+          "1212da97-2b0a-4578-9447-0049cfb29fbc",
+          "92b6d18c-40ba-4873-9828-eabd613298b4"
+        ],
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "grid-image-size": "seven",
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": false,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "url_avis": "shopify:\/\/products\/copie-de-montre-femme",
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier",
+          "height-atc": 50,
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": true,
+          "show-viewers": true,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#000000",
+          "asepar": "#000000",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-buttons": {
+        "type": "product-template-buttons",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "product-template-dropswatch": {
+        "type": "product-template-dropswatch",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier test",
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "avis": {
+        "type": "avis",
+        "settings": {
+          "title": "Reviews",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "enable-startop": true,
+          "startop": 5,
+          "startop-size": 21,
+          "hautsous": 0,
+          "startop-color": "#ffe325",
+          "border-size": 0,
+          "carte-radius": 3,
+          "carte-padding-main": 15,
+          "carte-padding-img": 0,
+          "cart-shadow-size": 15,
+          "background-carte": "#ffffff",
+          "color-carte": "#000000",
+          "border-color": "#000000",
+          "cart-shadow-color": "#d4d4d4",
+          "arrow-color": "#ffffff",
+          "arrow-color-hover": "#000000",
+          "validate-color": "#1a86e5",
+          "etoile-color": "#ffe325",
+          "enable-name": true,
+          "enable-date": true,
+          "enable-stars": true,
+          "enable-avis": true,
+          "content-align": "left",
+          "name-size": "4",
+          "namemb": 0,
+          "namemt": 0,
+          "datemt": 6,
+          "etoile-size": 19,
+          "margin-star": 9,
+          "txtm": 2
+        }
+      },
+      "product-template-buttonswatch": {
+        "type": "product-template-buttonswatch",
+        "settings": {
+          "media_layout": "thumbnails",
+          "enable_image_zoom": false,
+          "enable_video_looping": false,
+          "align-title": "left",
+          "show-description": "none",
+          "product_vendor_enable": false,
+          "social_sharing_products": true,
+          "taxes": false,
+          "enable_payment_button": true,
+          "only-dynamic": false,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-color": "#FFE325",
+          "tcolor": "#444",
+          "price-size": 20,
+          "price-size-sale": 20,
+          "price-size-bar": 20,
+          "price-color": "#000000",
+          "price-color-sale": "#000000",
+          "price-color-barre": "#000000",
+          "barre-gras": false,
+          "hb-percent": 0,
+          "percent-economy": true,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "quantity_enabled": false,
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Ajouter au panier",
+          "height-atc": 50,
+          "size-police": 15,
+          "add_to_cart_button_size": "small",
+          "icon-cart": "angle-double-right",
+          "cta-animation": "rotater",
+          "anim-time": 5,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444",
+          "asepar": "#444",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon-size": 25,
+          "favicon-mb": 0,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000"
+        }
+      },
+      "advanced-content": {
+        "type": "advanced-content",
+        "blocks": {
+          "df872ba7-71dd-48f2-80e5-29f0c1171b24": {
+            "type": "html",
+            "settings": {
+              "code": "<div style=\"text-align:center;\">\n<h2>Utilisez le code HTML pour formater votre texte afin qu'il puisse être facilement lu.<\/h2>Vous pouvez utiliser ce texte pour partager des informations sur votre marque avec les clients.<\/div>",
+              "width": "100%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "df872ba7-71dd-48f2-80e5-29f0c1171b24"
+        ],
+        "settings": {
+        }
+      },
+      "16116826893c2f2e07": {
+        "type": "featured-product",
+        "blocks": {
+          "f4f83ebd-95d3-49a5-8fb6-b4c4e950372d": {
+            "type": "mention",
+            "settings": {
+              "custom-content-first": "Skorzystaj z tej zniżki już dziś!",
+              "first-type": "s",
+              "icon-first": "angle-right",
+              "color-first": "#000000",
+              "color-first-icon": "#000000",
+              "hb-mention": 0
+            }
+          },
+          "c1e3cbe7-a567-4f8f-8a4c-76ac4c7d09a8": {
+            "type": "accordion",
+            "settings": {
+              "title": "Specyfikacje",
+              "text": "<p><strong>Nazwa produktu : <\/strong>Magiczna Klepsydra Sablea™<\/p><p><strong>Materiał <\/strong>: Drewniana konstrukcja podstawy<strong> <\/strong><\/p><p><strong>Rozmiar <\/strong>: 18 lub 30 cm<\/p><p><strong>Waga produktu <\/strong>: około 850g<\/p>",
+              "accordion-icon": "angle-right",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          },
+          "f3141abd-ae74-40a8-b7b6-75e64e848cc2": {
+            "type": "accordion",
+            "settings": {
+              "title": "Gwarancja",
+              "text": "<p><strong>JAKIE SĄ WARUNKI SKORZYSTANIA Z GWARANCJI &quot;ZADOWOLONY LUB ZWROT PIENIĘDZY&quot;?<\/strong><\/p><p>Aby skorzystać z gwarancji &quot;Zadowolony lub zwrócony&quot;, musisz być w ciągu 14 dni od daty otrzymania zamówienia. Przed dokonaniem zwrotu należy się z nami skontaktować w celu przeprowadzenia wskazanej procedury i zapewnienia, że produkt zostanie prawidłowo zwrócony. <\/p><p>Aby uzyskać więcej informacji, przejdź do strony FAQ.<\/p>",
+              "accordion-icon": "angle-right",
+              "accordion-color": "#000000",
+              "accordion-icon-color": "#000000"
+            }
+          }
+        },
+        "block_order": [
+          "f4f83ebd-95d3-49a5-8fb6-b4c4e950372d",
+          "c1e3cbe7-a567-4f8f-8a4c-76ac4c7d09a8",
+          "f3141abd-ae74-40a8-b7b6-75e64e848cc2"
+        ],
+        "settings": {
+          "featured_product": "sablier-magique",
+          "grid-image-size": "seven",
+          "align-title": "left",
+          "show-description": "bottom",
+          "all-image": true,
+          "show_variant_labels": true,
+          "hide-first-variant": true,
+          "show_vendor": false,
+          "taxes": false,
+          "quantity_enabled": true,
+          "enable_payment_button": false,
+          "only-dynamic": false,
+          "show_share_buttons": false,
+          "display-star": true,
+          "startop": 4.5,
+          "startop-size": 15,
+          "starm": 0,
+          "startop-names": "3176 Opinie",
+          "startop-color": "#ffe325",
+          "tcolor": "#444444",
+          "price-size": 25,
+          "price-size-sale": 20,
+          "price-size-bar": 16,
+          "price-color": "#036600",
+          "price-color-sale": "#036600",
+          "price-color-barre": "#838383",
+          "barre-gras": true,
+          "hb-percent": 3,
+          "percent-economy": false,
+          "percent-gras": true,
+          "percent-text-before": "Économisez",
+          "percent-text-after": "",
+          "product-header-desc": "",
+          "size-guide": false,
+          "size-txt": "Guide de taille",
+          "modal-footer": true,
+          "close-txt": "Fermer",
+          "atc-text": "Dodaj do koszyka",
+          "height-atc": 60,
+          "size-police": 16,
+          "icon-cart": "plus",
+          "cta-animation": "rotater",
+          "anim-time": 6,
+          "atc-bg-color": "#000000",
+          "atc-color": "#ffffff",
+          "atc-bg-color-hover": "#000000",
+          "atc-color-hover": "#ffffff",
+          "enable_video_looping": false,
+          "show-payment": false,
+          "secup": "Paiement Sécurisé",
+          "show-security": false,
+          "payment-align": "center",
+          "payment-width": 90,
+          "mt-payment-btn": 0,
+          "show-countdown": false,
+          "show-viewers": false,
+          "enable-count-time": false,
+          "count-day": "31",
+          "count-month": "Dec",
+          "count-year": "2020",
+          "accordion": true,
+          "abord": 3,
+          "acontent": "#444444",
+          "asepar": "#444444",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 50,
+          "subtitle": "",
+          "title-tag": "1",
+          "mb-title": 0,
+          "enable-bb": true,
+          "bbwidth": 3,
+          "bblength": 9,
+          "bbmt": 16,
+          "favicon-size": 30,
+          "favicon-mb": 1,
+          "favicon-mr": 0,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000"
+        }
+      },
+      "16135677230782eb26": {
+        "type": "faq",
+        "blocks": {
+          "16135677230782eb26-0": {
+            "type": "select",
+            "settings": {
+              "question": "Jaki jest czas dostawy?",
+              "reponse": "<p>Paczki są wysyłane w ciągu 48 godzin od zatwierdzenia zamówienia (w soboty i niedziele zamówienia nie są realizowane). Otrzymasz potwierdzenie wysyłki wraz z numerem przesyłki, gdy Twoje zamówienie będzie w drodze.<\/p>"
+            }
+          },
+          "16135677230782eb26-1": {
+            "type": "select",
+            "settings": {
+              "question": "Czy pomimo kryzysu zdrowotnego związanego z Covid-19, kontynuujecie dostawy dla swoich klientów ?",
+              "reponse": "<p>Pomimo trudnej sytuacji, przez którą przechodzimy, kontynuujemy naszą działalność. Niezależnie od tego, czy jesteś w domu, w pracy czy w drodze, możesz być pewien, że Twoje zamówienia są realizowane bezpiecznie i z najwyższą starannością. Możliwe jest jednak, że czas dostawy może się wydłużyć.<\/p>"
+            }
+          },
+          "16135677230782eb26-2": {
+            "type": "select",
+            "settings": {
+              "question": "Ile wynosi koszt wysyłki ?",
+              "reponse": "<p>Wysyłka na cały świat jest darmowa dla wszystkich zamówień. Żadne opłaty nie będą naliczane przy kasie.<\/p>"
+            }
+          },
+          "92e6704a-9482-4fc0-864f-fa93e061b80f": {
+            "type": "select",
+            "settings": {
+              "question": "Czy moja płatność jest bezpieczna?",
+              "reponse": "<p>Płatność kartą kredytową dokonana na stronie jest bezpieczna. Używamy bezpiecznego serwera SSL, aby chronić Twoje dane bankowe. Akceptowane są karty kredytowe i debetowe, Visa Eurocard i Mastercard. Po dokonaniu transakcji, zostanie wysłany do Ciebie e-mail z potwierdzeniem.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "16135677230782eb26-0",
+          "16135677230782eb26-1",
+          "16135677230782eb26-2",
+          "92e6704a-9482-4fc0-864f-fa93e061b80f"
+        ],
+        "settings": {
+          "title": "O Sablea™",
+          "subtitle": "",
+          "background-gradient1": "#ffffff",
+          "background-gradient2": "#ffffff",
+          "gradient-side": "to right",
+          "phb": 25,
+          "first-elem-faq": false,
+          "align-title": "center",
+          "title-tag": "2",
+          "hautsoustitre": 0,
+          "enable-bb": false,
+          "bbwidth": 2,
+          "bblength": 9,
+          "bbmt": 15,
+          "favicon": "shopify:\/\/shop_images\/interrogative_bleue_256x256_c9544ecc-fb46-4fa5-85a4-b51bac737f2c.gif",
+          "favicon-size": 28,
+          "favicon-mb": 4,
+          "favicon-mr": 3,
+          "titles-color": "#000000",
+          "bordercolor": "#000000",
+          "subtitlecolor": "#000000",
+          "answer-border-padding-left": 25,
+          "border-collapsed-size": 1,
+          "answer-border-width": 1,
+          "answer-border-type": "dashed",
+          "border-collapsed-color": "rgba(0,0,0,0)",
+          "title-color": "#000000",
+          "clic-title-color": "#000000",
+          "accordion-color": "#ffffff",
+          "clic-color": "#ffffff",
+          "text-color": "#000000",
+          "background-color-question-hover": "#ffffff",
+          "color-question-text-hover": "#000000"
+        }
+      }
+    },
+    "content_for_index": [
+      "1604759152b76a67a7",
+      "16116826893c2f2e07",
+      "1605364128eb3607ed",
+      "16135677230782eb26",
+      "16047821078f1ea1d1"
+    ]
+  }
+}
