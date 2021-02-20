@@ -130,7 +130,7 @@
     "newsactive": false,
     "newstime": 7,
     "newstitle": "Follow our daily emails!",
-    "cooks": true,
+    "cooks": false,
     "cookstxt": "This website uses cookies to ensure that you have the best possible experience on our website.",
     "cookstxt-agree": "I Accept",
     "cookstxt-refuse": "Refuse",
